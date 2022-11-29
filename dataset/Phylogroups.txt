@@ -1,0 +1,515 @@
+PG85_S13.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	PG85_S13.assembly.fasta_mash_screen.tab
+BV16_S49.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	BV16_S49.assembly.fasta_mash_screen.tab
+BV18_S57.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	BV18_S57.assembly.fasta_mash_screen.tab
+BV19_S192.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	BV19_S192.assembly.fasta_mash_screen.tab
+BV1_S194.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	BV1_S194.assembly.fasta_mash_screen.tab
+BV22_S63.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	BV22_S63.assembly.fasta_mash_screen.tab
+BV23-redeposit_S150.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	BV23-redeposit_S150.assembly.fasta_mash_screen.tab
+BV25_S137.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	BV25_S137.assembly.fasta_mash_screen.tab
+BV27_S110.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	BV27_S110.assembly.fasta_mash_screen.tab
+BV31_S27.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	BV31_S27.assembly.fasta_mash_screen.tab
+BV36_S28.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	BV36_S28.assembly.fasta_mash_screen.tab
+BV38_S29.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	BV38_S29.assembly.fasta_mash_screen.tab
+BV39_S30.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	BV39_S30.assembly.fasta_mash_screen.tab
+BV43_S31.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	BV43_S31.assembly.fasta_mash_screen.tab
+BV4_S105.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	BV4_S105.assembly.fasta_mash_screen.tab
+BV53_S32.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	BV53_S32.assembly.fasta_mash_screen.tab
+BV5-redeposit_S149.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	BV5-redeposit_S149.assembly.fasta_mash_screen.tab
+BV6_S190.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	BV6_S190.assembly.fasta_mash_screen.tab
+BV76_S111.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	BV76_S111.assembly.fasta_mash_screen.tab
+BV78_S106.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	BV78_S106.assembly.fasta_mash_screen.tab
+BV85_S113.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	BV85_S113.assembly.fasta_mash_screen.tab
+BV86_S118.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	BV86_S118.assembly.fasta_mash_screen.tab
+CH10_S102.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CH10_S102.assembly.fasta_mash_screen.tab
+CH14_S138.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CH14_S138.assembly.fasta_mash_screen.tab
+CH15_S17.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	CH15_S17.assembly.fasta_mash_screen.tab
+CH16_S14.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CH16_S14.assembly.fasta_mash_screen.tab
+CH17_S139.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CH17_S139.assembly.fasta_mash_screen.tab
+CH19_S16.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CH19_S16.assembly.fasta_mash_screen.tab
+CH20_S15.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH20_S15.assembly.fasta_mash_screen.tab
+CH21_S40.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CH21_S40.assembly.fasta_mash_screen.tab
+CH22_S41.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CH22_S41.assembly.fasta_mash_screen.tab
+CH23_S42.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	CH23_S42.assembly.fasta_mash_screen.tab
+CH25_S27.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH25_S27.assembly.fasta_mash_screen.tab
+CH26_S43.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH26_S43.assembly.fasta_mash_screen.tab
+CH2_S71.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CH2_S71.assembly.fasta_mash_screen.tab
+CH30_S39.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CH30_S39.assembly.fasta_mash_screen.tab
+CH31_S47.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH31_S47.assembly.fasta_mash_screen.tab
+CH32_S172.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CH32_S172.assembly.fasta_mash_screen.tab
+CH33_S174.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CH33_S174.assembly.fasta_mash_screen.tab
+CH35_S140.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CH35_S140.assembly.fasta_mash_screen.tab
+CH37_S54.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CH37_S54.assembly.fasta_mash_screen.tab
+CH38_S34.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH38_S34.assembly.fasta_mash_screen.tab
+CH39_S2.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH39_S2.assembly.fasta_mash_screen.tab
+CH43_S12.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CH43_S12.assembly.fasta_mash_screen.tab
+CH45_S13.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH45_S13.assembly.fasta_mash_screen.tab
+CH46_S14.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH46_S14.assembly.fasta_mash_screen.tab
+CH48_S15.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH48_S15.assembly.fasta_mash_screen.tab
+CH49_S16.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CH49_S16.assembly.fasta_mash_screen.tab
+CH54_S17.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH54_S17.assembly.fasta_mash_screen.tab
+CH55_S18.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH55_S18.assembly.fasta_mash_screen.tab
+CH56_S19.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH56_S19.assembly.fasta_mash_screen.tab
+CH57_S20.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CH57_S20.assembly.fasta_mash_screen.tab
+CH59_S21.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH59_S21.assembly.fasta_mash_screen.tab
+CH60_S22.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CH60_S22.assembly.fasta_mash_screen.tab
+CH62_S23.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CH62_S23.assembly.fasta_mash_screen.tab
+CH66_S103.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	CH66_S103.assembly.fasta_mash_screen.tab
+CH67_S104.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	CH67_S104.assembly.fasta_mash_screen.tab
+CH71_S2.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH71_S2.assembly.fasta_mash_screen.tab
+CH72_S67.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA', 'trpAgpC']	['+', '-', '-', '-']	['trpAgpC']	A	CH72_S67.assembly.fasta_mash_screen.tab
+CH74_S18.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH74_S18.assembly.fasta_mash_screen.tab
+CH78_S137.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CH78_S137.assembly.fasta_mash_screen.tab
+CH7_S188.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CH7_S188.assembly.fasta_mash_screen.tab
+CH81_S143.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH81_S143.assembly.fasta_mash_screen.tab
+CH86_S93.assembly.fasta	['trpA', 'trpBA', 'chuA']	['-', '+', '-', '-']	[]	F	CH86_S93.assembly.fasta_mash_screen.tab
+CH89_S145.assembly.fasta	['trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	CH89_S145.assembly.fasta_mash_screen.tab
+CH8_S267.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CH8_S267.assembly.fasta_mash_screen.tab
+CH90_S276.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CH90_S276.assembly.fasta_mash_screen.tab
+CH96_S16.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH96_S16.assembly.fasta_mash_screen.tab
+CH97_S19.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CH97_S19.assembly.fasta_mash_screen.tab
+CN12_S149.assembly.fasta	['trpBA', 'chuA', 'aesI']	['-', '+', '-', '-']	['aesI']	F	CN12_S149.assembly.fasta_mash_screen.tab
+CN13_S203.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CN13_S203.assembly.fasta_mash_screen.tab
+CN14_S198.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '+', '+']	['trpAgpC']	Unknown	CN14_S198.assembly.fasta_mash_screen.tab
+CN15_S62.assembly.fasta	['trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	CN15_S62.assembly.fasta_mash_screen.tab
+CN16_S135.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN16_S135.assembly.fasta_mash_screen.tab
+CN17_S147.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN17_S147.assembly.fasta_mash_screen.tab
+CN18_S4.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CN18_S4.assembly.fasta_mash_screen.tab
+CN1_S196.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CN1_S196.assembly.fasta_mash_screen.tab
+CN23_S7.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	CN23_S7.assembly.fasta_mash_screen.tab
+CN24_S20.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN24_S20.assembly.fasta_mash_screen.tab
+CN25_S10.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CN25_S10.assembly.fasta_mash_screen.tab
+CN26_S11.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN26_S11.assembly.fasta_mash_screen.tab
+CN28_S5.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CN28_S5.assembly.fasta_mash_screen.tab
+CN29_S146.assembly.fasta	['trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	F	CN29_S146.assembly.fasta_mash_screen.tab
+CN31_S151.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CN31_S151.assembly.fasta_mash_screen.tab
+CN33-redeposit_S6.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CN33-redeposit_S6.assembly.fasta_mash_screen.tab
+CN35_S53.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CN35_S53.assembly.fasta_mash_screen.tab
+CN36_S152.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CN36_S152.assembly.fasta_mash_screen.tab
+CN39_S153.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CN39_S153.assembly.fasta_mash_screen.tab
+CN40_S154.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN40_S154.assembly.fasta_mash_screen.tab
+CN44_S123.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN44_S123.assembly.fasta_mash_screen.tab
+CN48-redeposit_S1.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	CN48-redeposit_S1.assembly.fasta_mash_screen.tab
+CN49-redeposit_S2.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	CN49-redeposit_S2.assembly.fasta_mash_screen.tab
+CN51_S87.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	CN51_S87.assembly.fasta_mash_screen.tab
+CN56_S69.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN56_S69.assembly.fasta_mash_screen.tab
+CN57_S7.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN57_S7.assembly.fasta_mash_screen.tab
+CN58_S110.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN58_S110.assembly.fasta_mash_screen.tab
+CN59_S118.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN59_S118.assembly.fasta_mash_screen.tab
+CN60_S114.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CN60_S114.assembly.fasta_mash_screen.tab
+CN61_S142.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN61_S142.assembly.fasta_mash_screen.tab
+CN62_S148.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN62_S148.assembly.fasta_mash_screen.tab
+CN63-redeposit_S4.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CN63-redeposit_S4.assembly.fasta_mash_screen.tab
+CN65_S114.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CN65_S114.assembly.fasta_mash_screen.tab
+CN66_S152.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	CN66_S152.assembly.fasta_mash_screen.tab
+CN68_S153.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	CN68_S153.assembly.fasta_mash_screen.tab
+CN69_S115.assembly.fasta	['trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	F	CN69_S115.assembly.fasta_mash_screen.tab
+CN70_S138.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CN70_S138.assembly.fasta_mash_screen.tab
+CN71_S260.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN71_S260.assembly.fasta_mash_screen.tab
+CN75-redeposit_S1.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CN75-redeposit_S1.assembly.fasta_mash_screen.tab
+CN79_S90.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN79_S90.assembly.fasta_mash_screen.tab
+CN81_S91.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CN81_S91.assembly.fasta_mash_screen.tab
+CN82-redeposit_S7.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CN82-redeposit_S7.assembly.fasta_mash_screen.tab
+CN83-redeposit_S262.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	CN83-redeposit_S262.assembly.fasta_mash_screen.tab
+CN84_S11.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CN84_S11.assembly.fasta_mash_screen.tab
+CN85_S93.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CN85_S93.assembly.fasta_mash_screen.tab
+CN86_S117.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	CN86_S117.assembly.fasta_mash_screen.tab
+CN87_S153.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN87_S153.assembly.fasta_mash_screen.tab
+CN89_S106.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	CN89_S106.assembly.fasta_mash_screen.tab
+CN90_S115.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CN90_S115.assembly.fasta_mash_screen.tab
+CN92_S14.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CN92_S14.assembly.fasta_mash_screen.tab
+CT12_S38.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CT12_S38.assembly.fasta_mash_screen.tab
+CT13_S56.assembly.fasta	['trpBA', 'chuA', 'aesI']	['-', '+', '-', '-']	['aesI']	F	CT13_S56.assembly.fasta_mash_screen.tab
+CT15_S46.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CT15_S46.assembly.fasta_mash_screen.tab
+CT20_S45.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CT20_S45.assembly.fasta_mash_screen.tab
+CT21_S64.assembly.fasta	['trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	CT21_S64.assembly.fasta_mash_screen.tab
+CT27_S155.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	CT27_S155.assembly.fasta_mash_screen.tab
+CT32_S156.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CT32_S156.assembly.fasta_mash_screen.tab
+CT34_S120.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CT34_S120.assembly.fasta_mash_screen.tab
+CT38_S121.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CT38_S121.assembly.fasta_mash_screen.tab
+CT3_S18.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CT3_S18.assembly.fasta_mash_screen.tab
+CT49_S17.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CT49_S17.assembly.fasta_mash_screen.tab
+CT55_S273.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	CT55_S273.assembly.fasta_mash_screen.tab
+CT63_S278.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CT63_S278.assembly.fasta_mash_screen.tab
+CT66_S265.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CT66_S265.assembly.fasta_mash_screen.tab
+CT6_S51.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CT6_S51.assembly.fasta_mash_screen.tab
+CT8_S19.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'arpA', 'ArpAgpE', 'aesI']	['+', '+', '+', '-']	['aesI', 'ArpAgpE']	cladeI	CT8_S19.assembly.fasta_mash_screen.tab
+CV8_S101.assembly.fasta	['trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	CV8_S101.assembly.fasta_mash_screen.tab
+CV9_S112.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	CV9_S112.assembly.fasta_mash_screen.tab
+DI10_S118.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	DI10_S118.assembly.fasta_mash_screen.tab
+DI12_S35.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	DI12_S35.assembly.fasta_mash_screen.tab
+DI13_S156.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	DI13_S156.assembly.fasta_mash_screen.tab
+DI1_S186.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	DI1_S186.assembly.fasta_mash_screen.tab
+DI2_S147.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	DI2_S147.assembly.fasta_mash_screen.tab
+DI4_S60.assembly.fasta	['chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	DI4_S60.assembly.fasta_mash_screen.tab
+DI5_S114.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	DI5_S114.assembly.fasta_mash_screen.tab
+DI7_S115.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	DI7_S115.assembly.fasta_mash_screen.tab
+DI8_S116.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	DI8_S116.assembly.fasta_mash_screen.tab
+DI9_S117.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	DI9_S117.assembly.fasta_mash_screen.tab
+E10_S61.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	E10_S61.assembly.fasta_mash_screen.tab
+E20_S62.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	E20_S62.assembly.fasta_mash_screen.tab
+E22_S60.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	E22_S60.assembly.fasta_mash_screen.tab
+E25_S272.assembly.fasta	['trpA', 'trpBA', 'chuA', 'arpA', 'ArpAgpE', 'trpAgpC']	['+', '+', '-', '-']	['ArpAgpE', 'trpAgpC']	E	E25_S272.assembly.fasta_mash_screen.tab
+E30_S49.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	E30_S49.assembly.fasta_mash_screen.tab
+E33_S61.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	E33_S61.assembly.fasta_mash_screen.tab
+E35_S197.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	E35_S197.assembly.fasta_mash_screen.tab
+E37_S157.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	E37_S157.assembly.fasta_mash_screen.tab
+E49_S117.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	E49_S117.assembly.fasta_mash_screen.tab
+E52_S118.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	E52_S118.assembly.fasta_mash_screen.tab
+E53_S119.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	E53_S119.assembly.fasta_mash_screen.tab
+E63_S120.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	E63_S120.assembly.fasta_mash_screen.tab
+E71_S158.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	E71_S158.assembly.fasta_mash_screen.tab
+E73_S19.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	E73_S19.assembly.fasta_mash_screen.tab
+E79_S7.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	E79_S7.assembly.fasta_mash_screen.tab
+E84-redeposit_S3.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	E84-redeposit_S3.assembly.fasta_mash_screen.tab
+E87-redeposit_S6.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	E87-redeposit_S6.assembly.fasta_mash_screen.tab
+E97_S77.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	E97_S77.assembly.fasta_mash_screen.tab
+H100_S195.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H100_S195.assembly.fasta_mash_screen.tab
+H104_S1.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	H104_S1.assembly.fasta_mash_screen.tab
+H105-redeposit_S38.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H105-redeposit_S38.assembly.fasta_mash_screen.tab
+H108_S199.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H108_S199.assembly.fasta_mash_screen.tab
+H117_S140.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H117_S140.assembly.fasta_mash_screen.tab
+H118-redeposit_S1.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H118-redeposit_S1.assembly.fasta_mash_screen.tab
+H11_S59.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H11_S59.assembly.fasta_mash_screen.tab
+H122_S136.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H122_S136.assembly.fasta_mash_screen.tab
+H125_S106.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H125_S106.assembly.fasta_mash_screen.tab
+H129_S53.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H129_S53.assembly.fasta_mash_screen.tab
+H12_S69.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H12_S69.assembly.fasta_mash_screen.tab
+H136_S109.assembly.fasta	['trpA', 'trpBA', 'chuA', 'arpA', 'ArpAgpE', 'trpAgpC']	['+', '+', '-', '-']	['ArpAgpE', 'trpAgpC']	E	H136_S109.assembly.fasta_mash_screen.tab
+H137_S50.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	H137_S50.assembly.fasta_mash_screen.tab
+H139_S273.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H139_S273.assembly.fasta_mash_screen.tab
+H13_S56.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H13_S56.assembly.fasta_mash_screen.tab
+H144_S111.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H144_S111.assembly.fasta_mash_screen.tab
+H147_S2.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H147_S2.assembly.fasta_mash_screen.tab
+H151_S58.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	H151_S58.assembly.fasta_mash_screen.tab
+H153_S145.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H153_S145.assembly.fasta_mash_screen.tab
+H154-redeposit_S7.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	G	H154-redeposit_S7.assembly.fasta_mash_screen.tab
+H155-redeposit_S10.assembly.fasta	['trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	F	H155-redeposit_S10.assembly.fasta_mash_screen.tab
+H160-redeposit_S11.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H160-redeposit_S11.assembly.fasta_mash_screen.tab
+H164_S148.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	H164_S148.assembly.fasta_mash_screen.tab
+H172_S149.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	H172_S149.assembly.fasta_mash_screen.tab
+H177_S6.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H177_S6.assembly.fasta_mash_screen.tab
+H179_S272.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H179_S272.assembly.fasta_mash_screen.tab
+H183_S7.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H183_S7.assembly.fasta_mash_screen.tab
+H187_S4.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H187_S4.assembly.fasta_mash_screen.tab
+H190_S9.assembly.fasta	['trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	F	H190_S9.assembly.fasta_mash_screen.tab
+H191_S10.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H191_S10.assembly.fasta_mash_screen.tab
+H194_S103.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H194_S103.assembly.fasta_mash_screen.tab
+H196_S105.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H196_S105.assembly.fasta_mash_screen.tab
+H198_S8.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H198_S8.assembly.fasta_mash_screen.tab
+H1_S112.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H1_S112.assembly.fasta_mash_screen.tab
+H200_S106.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H200_S106.assembly.fasta_mash_screen.tab
+H204_S107.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H204_S107.assembly.fasta_mash_screen.tab
+H205_S108.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H205_S108.assembly.fasta_mash_screen.tab
+H207_S109.assembly.fasta	['trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA']	['+', '+', '-', '+']	[]	D	H207_S109.assembly.fasta_mash_screen.tab
+H217_S110.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H217_S110.assembly.fasta_mash_screen.tab
+H219_S111.assembly.fasta	['trpA', 'trpBA', 'citPferg']	['-', '-', '-', '-']	['citPferg']	fergusonii	H219_S111.assembly.fasta_mash_screen.tab
+H221_S113.assembly.fasta	['trpA', 'trpBA', 'citPferg']	['-', '-', '-', '-']	['citPferg']	fergusonii	H221_S113.assembly.fasta_mash_screen.tab
+H222_S112.assembly.fasta	['trpA', 'trpBA', 'citPferg']	['-', '-', '-', '-']	['citPferg']	fergusonii	H222_S112.assembly.fasta_mash_screen.tab
+H225_S114.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H225_S114.assembly.fasta_mash_screen.tab
+H228_S115.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H228_S115.assembly.fasta_mash_screen.tab
+H231_S276.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H231_S276.assembly.fasta_mash_screen.tab
+H236_S6.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H236_S6.assembly.fasta_mash_screen.tab
+H239_S7.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H239_S7.assembly.fasta_mash_screen.tab
+H241_S8.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H241_S8.assembly.fasta_mash_screen.tab
+H242_S271.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	H242_S271.assembly.fasta_mash_screen.tab
+H245_S9.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H245_S9.assembly.fasta_mash_screen.tab
+H248_S10.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H248_S10.assembly.fasta_mash_screen.tab
+H249_S83.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H249_S83.assembly.fasta_mash_screen.tab
+H265_S151.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H265_S151.assembly.fasta_mash_screen.tab
+H267_S5.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'TspE4.C2', 'arpA']	['+', '-', '+', '+']	[]	Unknown	H267_S5.assembly.fasta_mash_screen.tab
+H268_S152.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	H268_S152.assembly.fasta_mash_screen.tab
+H26_S57.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H26_S57.assembly.fasta_mash_screen.tab
+H277_S113.assembly.fasta	['trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	F	H277_S113.assembly.fasta_mash_screen.tab
+H282_S150.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H282_S150.assembly.fasta_mash_screen.tab
+H283_S147.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	H283_S147.assembly.fasta_mash_screen.tab
+H286_S149.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	H286_S149.assembly.fasta_mash_screen.tab
+H287_S159.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	H287_S159.assembly.fasta_mash_screen.tab
+H288_S158.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H288_S158.assembly.fasta_mash_screen.tab
+H289_S92.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H289_S92.assembly.fasta_mash_screen.tab
+H290_S90.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H290_S90.assembly.fasta_mash_screen.tab
+H293_S39.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H293_S39.assembly.fasta_mash_screen.tab
+H294_S155.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H294_S155.assembly.fasta_mash_screen.tab
+H295-redeposit_S8.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	H295-redeposit_S8.assembly.fasta_mash_screen.tab
+H298_S109.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H298_S109.assembly.fasta_mash_screen.tab
+H29_S189.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	H29_S189.assembly.fasta_mash_screen.tab
+H307_S275.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H307_S275.assembly.fasta_mash_screen.tab
+H308_S143.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H308_S143.assembly.fasta_mash_screen.tab
+H311-redeposit_S263.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H311-redeposit_S263.assembly.fasta_mash_screen.tab
+H315_S94.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H315_S94.assembly.fasta_mash_screen.tab
+H31_S108.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	H31_S108.assembly.fasta_mash_screen.tab
+H322-redeposit_S2.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H322-redeposit_S2.assembly.fasta_mash_screen.tab
+H327_S105.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H327_S105.assembly.fasta_mash_screen.tab
+H32_S204.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	H32_S204.assembly.fasta_mash_screen.tab
+H332_S274.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H332_S274.assembly.fasta_mash_screen.tab
+H339_S261.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	H339_S261.assembly.fasta_mash_screen.tab
+H340_S111.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	H340_S111.assembly.fasta_mash_screen.tab
+H341_S75.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H341_S75.assembly.fasta_mash_screen.tab
+H342_S8.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H342_S8.assembly.fasta_mash_screen.tab
+H343_S74.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H343_S74.assembly.fasta_mash_screen.tab
+H348_S148.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H348_S148.assembly.fasta_mash_screen.tab
+H359_S13.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H359_S13.assembly.fasta_mash_screen.tab
+H35_S65.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H35_S65.assembly.fasta_mash_screen.tab
+H360_S105.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H360_S105.assembly.fasta_mash_screen.tab
+H39_S46.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H39_S46.assembly.fasta_mash_screen.tab
+H3_S195.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H3_S195.assembly.fasta_mash_screen.tab
+H42_S271.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H42_S271.assembly.fasta_mash_screen.tab
+H49_S266.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	H49_S266.assembly.fasta_mash_screen.tab
+H5-redeposit_S5.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H5-redeposit_S5.assembly.fasta_mash_screen.tab
+H66_S191.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	H66_S191.assembly.fasta_mash_screen.tab
+H71_S63.assembly.fasta	['trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	F	H71_S63.assembly.fasta_mash_screen.tab
+H73_S193.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	H73_S193.assembly.fasta_mash_screen.tab
+H74_S144.assembly.fasta	['trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	F	H74_S144.assembly.fasta_mash_screen.tab
+H76_S107.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H76_S107.assembly.fasta_mash_screen.tab
+H78_S67.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	H78_S67.assembly.fasta_mash_screen.tab
+H79_S66.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H79_S66.assembly.fasta_mash_screen.tab
+H7_S268.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	H7_S268.assembly.fasta_mash_screen.tab
+H82_S55.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H82_S55.assembly.fasta_mash_screen.tab
+H84_S64.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H84_S64.assembly.fasta_mash_screen.tab
+H85_S9.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H85_S9.assembly.fasta_mash_screen.tab
+H87_S8.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	H87_S8.assembly.fasta_mash_screen.tab
+H88_S142.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H88_S142.assembly.fasta_mash_screen.tab
+H93_S1.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	H93_S1.assembly.fasta_mash_screen.tab
+H94_S150.assembly.fasta	['trpA', 'trpBA', 'chuA', 'arpA', 'ArpAgpE', 'trpAgpC']	['+', '+', '-', '-']	['ArpAgpE', 'trpAgpC']	E	H94_S150.assembly.fasta_mash_screen.tab
+H97_S47.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	H97_S47.assembly.fasta_mash_screen.tab
+H99_S143.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	H99_S143.assembly.fasta_mash_screen.tab
+OI13_S107.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	OI13_S107.assembly.fasta_mash_screen.tab
+OI14_S108.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	OI14_S108.assembly.fasta_mash_screen.tab
+OI15_S109.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	OI15_S109.assembly.fasta_mash_screen.tab
+OI17_S110.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	OI17_S110.assembly.fasta_mash_screen.tab
+OI18_S111.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	OI18_S111.assembly.fasta_mash_screen.tab
+OI19_S112.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	OI19_S112.assembly.fasta_mash_screen.tab
+OI21_S113.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	OI21_S113.assembly.fasta_mash_screen.tab
+OI23_S263.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	OI23_S263.assembly.fasta_mash_screen.tab
+OI24_S130.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	OI24_S130.assembly.fasta_mash_screen.tab
+OI25_S124.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	OI25_S124.assembly.fasta_mash_screen.tab
+OI26_S262.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	OI26_S262.assembly.fasta_mash_screen.tab
+OI27_S4.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	OI27_S4.assembly.fasta_mash_screen.tab
+OI28-redep_S1.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	OI28-redep_S1.assembly.fasta_mash_screen.tab
+OI29_S3.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	OI29_S3.assembly.fasta_mash_screen.tab
+OI30_S264.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	OI30_S264.assembly.fasta_mash_screen.tab
+OI31_S15.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	OI31_S15.assembly.fasta_mash_screen.tab
+OI32_S13.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	OI32_S13.assembly.fasta_mash_screen.tab
+OI34-redeposit_S2.assembly.fasta	['trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	OI34-redeposit_S2.assembly.fasta_mash_screen.tab
+OI35_S123.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	OI35_S123.assembly.fasta_mash_screen.tab
+OI37_S128.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	OI37_S128.assembly.fasta_mash_screen.tab
+OI38_S16.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	OI38_S16.assembly.fasta_mash_screen.tab
+OI40_S146.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	OI40_S146.assembly.fasta_mash_screen.tab
+OI41_S8.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	OI41_S8.assembly.fasta_mash_screen.tab
+OI44_S102.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	OI44_S102.assembly.fasta_mash_screen.tab
+OI47_S96.assembly.fasta	['trpA', 'trpBA', 'chuA']	['-', '+', '-', '-']	[]	F	OI47_S96.assembly.fasta_mash_screen.tab
+OI49_S109.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	OI49_S109.assembly.fasta_mash_screen.tab
+OI50_S79.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	OI50_S79.assembly.fasta_mash_screen.tab
+OI51_S78.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	OI51_S78.assembly.fasta_mash_screen.tab
+OI53_S76.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	OI53_S76.assembly.fasta_mash_screen.tab
+OI7_S24.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	OI7_S24.assembly.fasta_mash_screen.tab
+OI8_S25.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'trpAgpC']	['+', '-', '+', '-']	['trpAgpC']	C	OI8_S25.assembly.fasta_mash_screen.tab
+OI9_S26.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	OI9_S26.assembly.fasta_mash_screen.tab
+PC100_S268.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC100_S268.assembly.fasta_mash_screen.tab
+PC19_S143.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PC19_S143.assembly.fasta_mash_screen.tab
+PC20_S21.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PC20_S21.assembly.fasta_mash_screen.tab
+PC21_S2.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC21_S2.assembly.fasta_mash_screen.tab
+PC22_S3.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PC22_S3.assembly.fasta_mash_screen.tab
+PC23_S6.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC23_S6.assembly.fasta_mash_screen.tab
+PC25_S142.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC25_S142.assembly.fasta_mash_screen.tab
+PC27_S265.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC27_S265.assembly.fasta_mash_screen.tab
+PC28_S196.assembly.fasta	['trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	PC28_S196.assembly.fasta_mash_screen.tab
+PC29_S52.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC29_S52.assembly.fasta_mash_screen.tab
+PC2_S25.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC2_S25.assembly.fasta_mash_screen.tab
+PC30-redeposit_S2.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PC30-redeposit_S2.assembly.fasta_mash_screen.tab
+PC31_S170.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC31_S170.assembly.fasta_mash_screen.tab
+PC32_S173.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA', 'trpAgpC']	['+', '-', '-', '-']	['trpAgpC']	A	PC32_S173.assembly.fasta_mash_screen.tab
+PC33_S141.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC33_S141.assembly.fasta_mash_screen.tab
+PC34_S133.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC34_S133.assembly.fasta_mash_screen.tab
+PC35_S39.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC35_S39.assembly.fasta_mash_screen.tab
+PC36_S41.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	PC36_S41.assembly.fasta_mash_screen.tab
+PC37_S68.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC37_S68.assembly.fasta_mash_screen.tab
+PC38_S33.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC38_S33.assembly.fasta_mash_screen.tab
+PC39_S36.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC39_S36.assembly.fasta_mash_screen.tab
+PC40_S44.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC40_S44.assembly.fasta_mash_screen.tab
+PC41-redeposit_S4.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC41-redeposit_S4.assembly.fasta_mash_screen.tab
+PC42_S72.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC42_S72.assembly.fasta_mash_screen.tab
+PC45_S25.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC45_S25.assembly.fasta_mash_screen.tab
+PC46_S26.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC46_S26.assembly.fasta_mash_screen.tab
+PC47_S24.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC47_S24.assembly.fasta_mash_screen.tab
+PC4_S22.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC4_S22.assembly.fasta_mash_screen.tab
+PC51_S27.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PC51_S27.assembly.fasta_mash_screen.tab
+PC52_S28.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC52_S28.assembly.fasta_mash_screen.tab
+PC53_S29.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC53_S29.assembly.fasta_mash_screen.tab
+PC54_S30.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC54_S30.assembly.fasta_mash_screen.tab
+PC55_S31.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC55_S31.assembly.fasta_mash_screen.tab
+PC56_S89.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC56_S89.assembly.fasta_mash_screen.tab
+PC57_S90.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PC57_S90.assembly.fasta_mash_screen.tab
+PC58_S91.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC58_S91.assembly.fasta_mash_screen.tab
+PC59_S92.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC59_S92.assembly.fasta_mash_screen.tab
+PC5_S36.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC5_S36.assembly.fasta_mash_screen.tab
+PC60_S93.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC60_S93.assembly.fasta_mash_screen.tab
+PC61_S94.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC61_S94.assembly.fasta_mash_screen.tab
+PC62_S95.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC62_S95.assembly.fasta_mash_screen.tab
+PC63_S96.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC63_S96.assembly.fasta_mash_screen.tab
+PC65_S97.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC65_S97.assembly.fasta_mash_screen.tab
+PC66_S98.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC66_S98.assembly.fasta_mash_screen.tab
+PC67_S99.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	PC67_S99.assembly.fasta_mash_screen.tab
+PC68_S100.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	PC68_S100.assembly.fasta_mash_screen.tab
+PC70_S1.assembly.fasta	['trpBA', 'chuA', 'aesI']	['-', '+', '-', '-']	['aesI']	F	PC70_S1.assembly.fasta_mash_screen.tab
+PC75_S134.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC75_S134.assembly.fasta_mash_screen.tab
+PC76_S108.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PC76_S108.assembly.fasta_mash_screen.tab
+PC77_S36.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PC77_S36.assembly.fasta_mash_screen.tab
+PC78_S122.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC78_S122.assembly.fasta_mash_screen.tab
+PC80_S126.assembly.fasta	['trpBA', 'chuA', 'aesI']	['-', '+', '-', '-']	['aesI']	F	PC80_S126.assembly.fasta_mash_screen.tab
+PC81_S145.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC81_S145.assembly.fasta_mash_screen.tab
+PC82_S91.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC82_S91.assembly.fasta_mash_screen.tab
+PC83_S139.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC83_S139.assembly.fasta_mash_screen.tab
+PC84_S127.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC84_S127.assembly.fasta_mash_screen.tab
+PC85_S132.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC85_S132.assembly.fasta_mash_screen.tab
+PC86_S133.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC86_S133.assembly.fasta_mash_screen.tab
+PC87_S135.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC87_S135.assembly.fasta_mash_screen.tab
+PC89_S92.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC89_S92.assembly.fasta_mash_screen.tab
+PC91_S107.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC91_S107.assembly.fasta_mash_screen.tab
+PC92_S73.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC92_S73.assembly.fasta_mash_screen.tab
+PC94_S12.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC94_S12.assembly.fasta_mash_screen.tab
+PC95_S80.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC95_S80.assembly.fasta_mash_screen.tab
+PC98_S157.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PC98_S157.assembly.fasta_mash_screen.tab
+PC99_S154.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PC99_S154.assembly.fasta_mash_screen.tab
+PG100_S42.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG100_S42.assembly.fasta_mash_screen.tab
+PG101_S40.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG101_S40.assembly.fasta_mash_screen.tab
+PG102_S35.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG102_S35.assembly.fasta_mash_screen.tab
+PG103_S34.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG103_S34.assembly.fasta_mash_screen.tab
+PG104_S70.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG104_S70.assembly.fasta_mash_screen.tab
+PG108_S269.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG108_S269.assembly.fasta_mash_screen.tab
+PG10_S44.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG10_S44.assembly.fasta_mash_screen.tab
+PG115_S200.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG115_S200.assembly.fasta_mash_screen.tab
+PG121_S50.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	PG121_S50.assembly.fasta_mash_screen.tab
+PG124_S37.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG124_S37.assembly.fasta_mash_screen.tab
+PG128_S24.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG128_S24.assembly.fasta_mash_screen.tab
+PG136_S26.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG136_S26.assembly.fasta_mash_screen.tab
+PG137_S205.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG137_S205.assembly.fasta_mash_screen.tab
+PG145-redeposit_S10.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG145-redeposit_S10.assembly.fasta_mash_screen.tab
+PG147_S112.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG147_S112.assembly.fasta_mash_screen.tab
+PG166_S136.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG166_S136.assembly.fasta_mash_screen.tab
+PG178_S2.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG178_S2.assembly.fasta_mash_screen.tab
+PG179_S3.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG179_S3.assembly.fasta_mash_screen.tab
+PG181_S4.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG181_S4.assembly.fasta_mash_screen.tab
+PG189_S5.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG189_S5.assembly.fasta_mash_screen.tab
+PG195_S6.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG195_S6.assembly.fasta_mash_screen.tab
+PG199_S7.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'TspE4.C2', 'arpA']	['+', '-', '+', '+']	[]	Unknown	PG199_S7.assembly.fasta_mash_screen.tab
+PG1_S3.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG1_S3.assembly.fasta_mash_screen.tab
+PG200_S8.assembly.fasta	['ybgD', 'chuA', 'yjaA', 'trpAgpC']	['-', '+', '+', '-']	['trpAgpC']	B2	PG200_S8.assembly.fasta_mash_screen.tab
+PG202_S9.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG202_S9.assembly.fasta_mash_screen.tab
+PG203_S10.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG203_S10.assembly.fasta_mash_screen.tab
+PG205_S11.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG205_S11.assembly.fasta_mash_screen.tab
+PG206_S12.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG206_S12.assembly.fasta_mash_screen.tab
+PG207_S13.assembly.fasta	['ybgD', 'chuA']	['-', '+', '-', '-']	[]	G	PG207_S13.assembly.fasta_mash_screen.tab
+PG210_S14.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG210_S14.assembly.fasta_mash_screen.tab
+PG211_S15.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG211_S15.assembly.fasta_mash_screen.tab
+PG212_S16.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG212_S16.assembly.fasta_mash_screen.tab
+PG213_S17.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG213_S17.assembly.fasta_mash_screen.tab
+PG214_S18.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG214_S18.assembly.fasta_mash_screen.tab
+PG216_S19.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG216_S19.assembly.fasta_mash_screen.tab
+PG217_S20.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG217_S20.assembly.fasta_mash_screen.tab
+PG218_S21.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG218_S21.assembly.fasta_mash_screen.tab
+PG227_S3.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG227_S3.assembly.fasta_mash_screen.tab
+PG231_S23.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG231_S23.assembly.fasta_mash_screen.tab
+PG239_S37.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG239_S37.assembly.fasta_mash_screen.tab
+PG248_S124.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG248_S124.assembly.fasta_mash_screen.tab
+PG250_S3.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG250_S3.assembly.fasta_mash_screen.tab
+PG251_S4.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG251_S4.assembly.fasta_mash_screen.tab
+PG253_S5.assembly.fasta	['trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	PG253_S5.assembly.fasta_mash_screen.tab
+PG254_S6.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG254_S6.assembly.fasta_mash_screen.tab
+PG258_S124.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG258_S124.assembly.fasta_mash_screen.tab
+PG259_S125.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG259_S125.assembly.fasta_mash_screen.tab
+PG263-redeposit_S3.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG263-redeposit_S3.assembly.fasta_mash_screen.tab
+PG265_S127.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG265_S127.assembly.fasta_mash_screen.tab
+PG266_S128.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG266_S128.assembly.fasta_mash_screen.tab
+PG267_S129.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG267_S129.assembly.fasta_mash_screen.tab
+PG268_S130.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG268_S130.assembly.fasta_mash_screen.tab
+PG269_S131.assembly.fasta	['trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA']	['+', '+', '-', '+']	[]	D	PG269_S131.assembly.fasta_mash_screen.tab
+PG270_S132.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG270_S132.assembly.fasta_mash_screen.tab
+PG271_S133.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG271_S133.assembly.fasta_mash_screen.tab
+PG273_S20.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG273_S20.assembly.fasta_mash_screen.tab
+PG280_S155.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	PG280_S155.assembly.fasta_mash_screen.tab
+PG283_S156.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG283_S156.assembly.fasta_mash_screen.tab
+PG285_S154.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	PG285_S154.assembly.fasta_mash_screen.tab
+PG289_S145.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG289_S145.assembly.fasta_mash_screen.tab
+PG294_S21.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG294_S21.assembly.fasta_mash_screen.tab
+PG295_S4.assembly.fasta	['trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	F	PG295_S4.assembly.fasta_mash_screen.tab
+PG297_S17.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG297_S17.assembly.fasta_mash_screen.tab
+PG298_S129.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG298_S129.assembly.fasta_mash_screen.tab
+PG299_S9.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG299_S9.assembly.fasta_mash_screen.tab
+PG304_S20.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG304_S20.assembly.fasta_mash_screen.tab
+PG306_S18.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG306_S18.assembly.fasta_mash_screen.tab
+PG307_S116.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG307_S116.assembly.fasta_mash_screen.tab
+PG308_S120.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG308_S120.assembly.fasta_mash_screen.tab
+PG309_S119.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG309_S119.assembly.fasta_mash_screen.tab
+PG310_S136.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG310_S136.assembly.fasta_mash_screen.tab
+PG311_S125.assembly.fasta	['trpBA', 'chuA', 'aesI']	['-', '+', '-', '-']	['aesI']	F	PG311_S125.assembly.fasta_mash_screen.tab
+PG312_S140.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG312_S140.assembly.fasta_mash_screen.tab
+PG314_S141.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG314_S141.assembly.fasta_mash_screen.tab
+PG315_S151.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG315_S151.assembly.fasta_mash_screen.tab
+PG316_S144.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG316_S144.assembly.fasta_mash_screen.tab
+PG317_S150.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG317_S150.assembly.fasta_mash_screen.tab
+PG319_S121.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG319_S121.assembly.fasta_mash_screen.tab
+PG31_S122.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG31_S122.assembly.fasta_mash_screen.tab
+PG320_S131.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG320_S131.assembly.fasta_mash_screen.tab
+PG321_S117.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG321_S117.assembly.fasta_mash_screen.tab
+PG324_S112.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG324_S112.assembly.fasta_mash_screen.tab
+PG335_S110.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG335_S110.assembly.fasta_mash_screen.tab
+PG336_S113.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG336_S113.assembly.fasta_mash_screen.tab
+PG33_S193.assembly.fasta	['trpA', 'trpBA', 'chuA']	['-', '+', '-', '-']	[]	F	PG33_S193.assembly.fasta_mash_screen.tab
+PG340_S90.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG340_S90.assembly.fasta_mash_screen.tab
+PG344_S89.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG344_S89.assembly.fasta_mash_screen.tab
+PG348_S264.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG348_S264.assembly.fasta_mash_screen.tab
+PG358_S265.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG358_S265.assembly.fasta_mash_screen.tab
+PG35_S55.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG35_S55.assembly.fasta_mash_screen.tab
+PG360_S116.assembly.fasta	['trpA', 'trpBA', 'chuA', 'arpA', 'ArpAgpE', 'trpAgpC']	['+', '+', '-', '-']	['ArpAgpE', 'trpAgpC']	E	PG360_S116.assembly.fasta_mash_screen.tab
+PG361_S266.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG361_S266.assembly.fasta_mash_screen.tab
+PG362_S71.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG362_S71.assembly.fasta_mash_screen.tab
+PG363_S267.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG363_S267.assembly.fasta_mash_screen.tab
+PG364_S149.assembly.fasta	['trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA']	['+', '+', '-', '+']	[]	D	PG364_S149.assembly.fasta_mash_screen.tab
+PG366_S15.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG366_S15.assembly.fasta_mash_screen.tab
+PG367_S72.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG367_S72.assembly.fasta_mash_screen.tab
+PG370_S270.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG370_S270.assembly.fasta_mash_screen.tab
+PG373-redeposit_S1.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG373-redeposit_S1.assembly.fasta_mash_screen.tab
+PG381_S147.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG381_S147.assembly.fasta_mash_screen.tab
+PG385_S10.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG385_S10.assembly.fasta_mash_screen.tab
+PG394_S14.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG394_S14.assembly.fasta_mash_screen.tab
+PG39_S201.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG39_S201.assembly.fasta_mash_screen.tab
+PG3-redeposit_S1.assembly.fasta	['trpA', 'trpBA', 'chuA', 'arpA', 'ArpAgpE', 'trpAgpC']	['+', '+', '-', '-']	['ArpAgpE', 'trpAgpC']	E	PG3-redeposit_S1.assembly.fasta_mash_screen.tab
+PG40_S28.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG40_S28.assembly.fasta_mash_screen.tab
+PG46_S133.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG46_S133.assembly.fasta_mash_screen.tab
+PG47_S192.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG47_S192.assembly.fasta_mash_screen.tab
+PG48_S134.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG48_S134.assembly.fasta_mash_screen.tab
+PG53_S194.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG53_S194.assembly.fasta_mash_screen.tab
+PG56-redeposit_S3.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	PG56-redeposit_S3.assembly.fasta_mash_screen.tab
+PG58_S48.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	PG58_S48.assembly.fasta_mash_screen.tab
+PG63_S171.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	PG63_S171.assembly.fasta_mash_screen.tab
+PG64_S38.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	PG64_S38.assembly.fasta_mash_screen.tab
+PG69-redeposit_S5.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG69-redeposit_S5.assembly.fasta_mash_screen.tab
+PG70_S34.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG70_S34.assembly.fasta_mash_screen.tab
+PG72_S73.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG72_S73.assembly.fasta_mash_screen.tab
+PG75_S148.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG75_S148.assembly.fasta_mash_screen.tab
+PG76_S139.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG76_S139.assembly.fasta_mash_screen.tab
+PG78_S202.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG78_S202.assembly.fasta_mash_screen.tab
+PG7_S35.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG7_S35.assembly.fasta_mash_screen.tab
+PG83_S134.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG83_S134.assembly.fasta_mash_screen.tab
+PG85_S13.assembly.fasta	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	PG85_S13.assembly.fasta_mash_screen.tab
+PG86_S135.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG86_S135.assembly.fasta_mash_screen.tab
+PG88_S65.assembly.fasta	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG88_S65.assembly.fasta_mash_screen.tab
+PG89_S145.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG89_S145.assembly.fasta_mash_screen.tab
+PG8-redeposit_S148.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PG8-redeposit_S148.assembly.fasta_mash_screen.tab
+PG90_S138.assembly.fasta	['trpBA', 'chuA', 'aesI']	['-', '+', '-', '-']	['aesI']	F	PG90_S138.assembly.fasta_mash_screen.tab
+PG92_S51.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PG92_S51.assembly.fasta_mash_screen.tab
+PG94_S12.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PG94_S12.assembly.fasta_mash_screen.tab
+PH10_S160.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PH10_S160.assembly.fasta_mash_screen.tab
+PH11_S157.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PH11_S157.assembly.fasta_mash_screen.tab
+PH12_S4.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PH12_S4.assembly.fasta_mash_screen.tab
+PH13_S87.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PH13_S87.assembly.fasta_mash_screen.tab
+PH14-redeposit_S9.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PH14-redeposit_S9.assembly.fasta_mash_screen.tab
+PH15_S144.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PH15_S144.assembly.fasta_mash_screen.tab
+PH16_S88.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PH16_S88.assembly.fasta_mash_screen.tab
+PH5_S105.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PH5_S105.assembly.fasta_mash_screen.tab
+PH6_S106.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	PH6_S106.assembly.fasta_mash_screen.tab
+PH7_S161.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PH7_S161.assembly.fasta_mash_screen.tab
+PH8_S162.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PH8_S162.assembly.fasta_mash_screen.tab
+PH9_S146.assembly.fasta	['trpA', 'trpBA', 'citPferg']	['-', '-', '-', '-']	['citPferg']	fergusonii	PH9_S146.assembly.fasta_mash_screen.tab
+PP12_S88.assembly.fasta	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	PP12_S88.assembly.fasta_mash_screen.tab
+PP19_S107.assembly.fasta	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	PP19_S107.assembly.fasta_mash_screen.tab

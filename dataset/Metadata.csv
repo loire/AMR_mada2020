@@ -1,0 +1,515 @@
+,Date de visite,Reads_names,True_indiv_name,ID,Host,Numero_foyer,Sexe,Stade_developpement,Antecedent_maladie,Antecedent_antibiotique,Activite_soin_hommes_anim,Contact_eau,Type_contact_eau,Hospitalisation_annee,Espece_animale_lien,Fokontany,Point_GPS_S,Point_GPS_E,Altitude,Zone,Nb_membres_foyer,Type_Habitat,Source_eau_commune_homme_animal,Approvisonnement_eau_hommes,Presence_traces_rongeurs,Presence_toilettes,Toilettes_partagees
+1,4/24/2018,BV1_S194,BV1_S194,BV1,Cattle,2,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97881,47.53582,1253,Humide,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+2,5/12/2018,BV16_S49,BV16_S49,BV16,Cattle,13,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.99064,47.53586,1276,Seche,11,Maison individuelle,1,Jirama et puit,Oui,1,1
+3,5/12/2018,BV18_S57,BV18_S57,BV18,Cattle,13,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.99064,47.53586,1276,Seche,11,Maison individuelle,1,Jirama et puit,Oui,1,1
+4,5/14/2018,BV19_S192,BV19_S192,BV19,Cattle,14,Female,Juvenile,YES,NO,NA,NA,NA,NA,NA,Morarano,18.99277,47.5269,1294,Seche,6,Maison individuelle,1,Puit,Oui,1,0
+5,5/15/2018,BV22_S63,BV22_S63,BV22,Cattle,15,Female,Adulte,YES,NO,NA,NA,NA,NA,NA,Iavoloha,19.0039,47.53632,1276,Seche,7,Maison individuelle,1,Puit,Oui,1,1
+6,5/15/2018,BV23-redeposit_S150,BV23-redeposit_S150,BV23,Cattle,15,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Iavoloha,19.0039,47.53632,1276,Seche,7,Maison individuelle,1,Puit,Oui,1,1
+7,5/22/2018,BV25_S137,BV25_S137,BV25,Cattle,17,Female,Adulte,YES,YES,NA,NA,NA,NA,NA,Iavoloha,19.00342,47.53638,1276,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+8,5/22/2018,BV27_S110,BV27_S110,BV27,Cattle,17,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,19.00342,47.53638,1276,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+9,6/15/2018,BV31_S27,BV31_S27,BV31,Cattle,33,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.98146,47.52283,1277,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+10,7/2/2018,BV36_S28,BV36_S28,BV36,Cattle,36,Female,Adulte,YES,NO,NA,NA,NA,NA,NA,Morarano,18.98464,47.51969,1272,Humide,8,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+11,7/2/2018,BV38_S29,BV38_S29,BV38,Cattle,36,Female,Adulte,YES,NO,NA,NA,NA,NA,NA,Morarano,18.98464,47.51969,1272,Humide,8,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+12,7/2/2018,BV39_S30,BV39_S30,BV39,Cattle,36,Female,Adulte,YES,NO,NA,NA,NA,NA,NA,Morarano,18.98464,47.51969,1272,Humide,8,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+13,4/24/2018,BV4_S105,BV4_S105,BV4,Cattle,2,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97881,47.53582,1253,Humide,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+14,7/2/2018,BV43_S31,BV43_S31,BV43,Cattle,36,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98464,47.51969,1272,Humide,8,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+15,4/24/2018,BV5-redeposit_S149,BV5-redeposit_S149,BV5,Cattle,2,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97881,47.53582,1253,Humide,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+16,7/4/2018,BV53_S32,BV53_S32,BV53,Cattle,38,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.972,47.52409,1254,Humide,6,Maison individuelle,0,Jirama,Oui,1,0
+17,4/24/2018,BV6_S190,BV6_S190,BV6,Cattle,2,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97881,47.53582,1253,Humide,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+18,8/21/2018,BV76_S111,BV76_S111,BV76,Cattle,55,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+19,9/11/2018,BV78_S106,BV78_S106,BV78,Cattle,65,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahavolona,18.98653,47.53122,1284,Seche,5,Maison individuelle,0,Jirama,Oui,1,0
+20,9/18/2018,BV85_S113,BV85_S113,BV85,Cattle,69,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99688,47.53583,1281,Humide,7,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,1
+21,9/18/2018,BV86_S118,BV86_S118,BV86,Cattle,69,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99688,47.53583,1281,Humide,7,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,1
+22,5/8/2018,CH10_S102,CH10_S102,CH10,Dog,9,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99029,47.52417,1293,Humide,6,Maison individuelle,0,Puit,Non,1,1
+23,5/10/2018,CH14_S138,CH14_S138,CH14,Dog,11,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99204,47.52243,1302,Humide,8,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+24,5/10/2018,CH15_S17,CH15_S17,CH15,Dog,11,Male,Juvenile,YES,NO,NA,NA,NA,NA,NA,Morarano,18.99204,47.52243,1302,Humide,8,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+25,5/11/2018,CH16_S14,CH16_S14,CH16,Dog,12,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98868,47.52803,1284,Humide,3,Maison dans un lot avec d’autres ménages,1,Borne fontaine et puit,Oui,1,1
+26,5/11/2018,CH17_S139,CH17_S139,CH17,Dog,12,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98868,47.52803,1284,Humide,3,Maison dans un lot avec d’autres ménages,1,Borne fontaine et puit,Oui,1,1
+27,5/15/2018,CH19_S16,CH19_S16,CH19,Dog,15,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Iavoloha,19.0039,47.53632,1276,Seche,7,Maison individuelle,1,Puit,Oui,1,1
+28,4/24/2018,CH2_S71,CH2_S71,CH2,Dog,2,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97881,47.53582,1253,Humide,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+29,5/15/2018,CH20_S15,CH20_S15,CH20,Dog,15,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,19.0039,47.53632,1276,Seche,7,Maison individuelle,1,Puit,Oui,1,1
+30,5/16/2018,CH21_S40,CH21_S40,CH21,Dog,16,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97336,47.53622,1261,Seche,7,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+31,5/22/2018,CH22_S41,CH22_S41,CH22,Dog,17,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,19.00342,47.53638,1276,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+32,5/24/2018,CH23_S42,CH23_S42,CH23,Dog,18,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97899,47.52651,1270,Humide,4,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+33,5/25/2018,CH25_S27,CH25_S27,CH25,Dog,19,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97503,47.52574,1258,Humide,8,Maison individuelle,1,Jirama,Oui,1,1
+34,5/30/2018,CH26_S43,CH26_S43,CH26,Dog,22,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99159,47.53075,1277,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+35,6/4/2018,CH30_S39,CH30_S39,CH30,Dog,24,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98799,47.53473,1264,Humide,6,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+36,6/4/2018,CH31_S47,CH31_S47,CH31,Dog,24,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98799,47.53473,1264,Humide,6,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+37,6/4/2018,CH32_S172,CH32_S172,CH32,Dog,24,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98799,47.53473,1264,Humide,6,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+38,6/4/2018,CH33_S174,CH33_S174,CH33,Dog,24,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98799,47.53473,1264,Humide,6,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+39,6/7/2018,CH35_S140,CH35_S140,CH35,Dog,27,Male,Juvenile,YES,NO,NA,NA,NA,NA,NA,Belambanana,18.97472,47.53828,1260,Seche,3,Maison individuelle,1,Jirama,Oui,1,0
+40,6/8/2018,CH37_S54,CH37_S54,CH37,Dog,28,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahalavolona,18.98498,47.52127,1287,Seche,4,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,0
+41,6/8/2018,CH38_S34,CH38_S34,CH38,Dog,28,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahalavolona,18.98498,47.52127,1287,Seche,4,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,0
+42,6/8/2018,CH39_S2,CH39_S2,CH39,Dog,28,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahalavolona,18.98498,47.52127,1287,Seche,4,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,0
+43,6/14/2018,CH43_S12,CH43_S12,CH43,Dog,32,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97826,47.52525,1257,Seche,7,Maison individuelle,1,Puit,Oui,1,1
+44,6/15/2018,CH45_S13,CH45_S13,CH45,Dog,33,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.98146,47.52283,1277,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+45,6/15/2018,CH46_S14,CH46_S14,CH46,Dog,33,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.98146,47.52283,1277,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+46,7/2/2018,CH48_S15,CH48_S15,CH48,Dog,36,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98464,47.51969,1272,Humide,8,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+47,7/2/2018,CH49_S16,CH49_S16,CH49,Dog,36,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98464,47.51969,1272,Humide,8,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+48,7/4/2018,CH54_S17,CH54_S17,CH54,Dog,38,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.972,47.52409,1254,Humide,6,Maison individuelle,0,Jirama,Oui,1,0
+49,7/4/2018,CH55_S18,CH55_S18,CH55,Dog,38,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.972,47.52409,1254,Humide,6,Maison individuelle,0,Jirama,Oui,1,0
+50,7/4/2018,CH56_S19,CH56_S19,CH56,Dog,38,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.972,47.52409,1254,Humide,6,Maison individuelle,0,Jirama,Oui,1,0
+51,7/9/2018,CH57_S20,CH57_S20,CH57,Dog,39,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98583,47.51857,1284,Humide,7,Maison individuelle,1,Puit,Oui,1,1
+52,7/10/2018,CH59_S21,CH59_S21,CH59,Dog,40,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97725,47.52297,1262,Humide,3,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,0
+53,7/10/2018,CH60_S22,CH60_S22,CH60,Dog,40,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97725,47.52297,1262,Humide,3,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,0
+54,7/10/2018,CH62_S23,CH62_S23,CH62,Dog,41,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97628,47.53767,1258,Seche,9,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+55,7/23/2018,CH66_S103,CH66_S103,CH66,Dog,44,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+56,8/28/2018,CH66_S152,CN66_S152,CN66,Duck,57,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.98714,47.54102,1257,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+57,7/30/2018,CH67_S104,CH67_S104,CH67,Dog,46,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99916,47.53862,1267,Humide,4,Maison individuelle,1,Puit,Non,1,0
+58,5/6/2018,CH7_S188,CH7_S188,CH7,Dog,7,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97589,47.53534,1259,Seche,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+59,8/13/2018,CH71_S2,CH71_S2,CH71,Dog,51,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97613,47.51848,1264,Humide,8,Maison individuelle,1,Jirama,Oui,1,0
+60,8/13/2018,CH72_S67,CH72_S67,CH72,Dog,51,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97613,47.51848,1264,Humide,8,Maison individuelle,1,Jirama,Oui,1,0
+61,8/20/2018,CH74_S18,CH74_S18,CH74,Dog,52,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98807,47.52166,1287,Humide,5,Maison individuelle,1,Jirama,Oui,1,0
+62,8/21/2018,CH78_S137,CH78_S137,CH78,Dog,55,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+63,5/6/2018,CH8_S267,CH8_S267,CH8,Dog,7,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97589,47.53534,1259,Seche,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+64,8/28/2018,CH81_S143,CH81_S143,CH81,Dog,57,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.98714,47.54102,1257,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+65,9/10/2018,CH86_S93,CH86_S93,CH86,Dog,63,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahavolona,18.98756,47.52798,1282,Humide,8,Maison individuelle,1,Puit,Non,1,0
+66,9/11/2018,CH89_S145,CH89_S145,CH89,Dog,65,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahavolona,18.98653,47.53122,1284,Seche,5,Maison individuelle,0,Jirama,Oui,1,0
+67,9/17/2018,CH90_S276,CH90_S276,CH90,Dog,67,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99538,47.53305,1287,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+68,10/2/2018,CH97_S19,CH97_S19,CH97,Dog,72,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,19.0034,47.53952,1263,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+69,4/23/2018,CN1_S196,CN1_S196,CN1,Duck,1,NA,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97813,47.53621,1255,Humide,12,Maison dans un lot avec d’autres ménages,0,Jirama,Non,1,0
+70,5/2/2018,CN12_S149,CN12_S149,CN12,Duck,5,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99993,47.54383,1284,Seche,8,Maison dans un lot avec d’autres ménages,0,Puit,Non,1,1
+71,5/2/2018,CN13_S203,CN13_S203,CN13,Duck,5,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99993,47.54383,1284,Seche,8,Maison dans un lot avec d’autres ménages,0,Puit,Non,1,1
+72,5/8/2018,CN14_S198,CN14_S198,CN14,Duck,9,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99029,47.52417,1293,Humide,6,Maison individuelle,0,Puit,Non,1,1
+73,5/14/2018,CN15_S62,CN15_S62,CN15,Duck,14,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99277,47.5269,1294,Seche,6,Maison individuelle,1,Puit,Oui,1,0
+74,5/14/2018,CN16_S135,CN16_S135,CN16,Duck,14,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99277,47.5269,1294,Seche,6,Maison individuelle,1,Puit,Oui,1,0
+75,5/25/2018,CN17_S147,CN17_S147,CN17,Duck,19,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97503,47.52574,1258,Humide,8,Maison individuelle,1,Jirama,Oui,1,1
+76,5/25/2018,CN18_S4,CN18_S4,CN18,Duck,19,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97503,47.52574,1258,Humide,8,Maison individuelle,1,Jirama,Oui,1,1
+77,5/30/2018,CN23_S7,CN23_S7,CN23,Duck,22,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99159,47.53075,1277,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+78,5/30/2018,CN24_S20,CN24_S20,CN24,Duck,22,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99159,47.53075,1277,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+79,6/1/2018,CN25_S10,CN25_S10,CN25,Duck,23,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.9771,47.51957,1255,Humide,8,Maison individuelle,0,Jirama,Oui,1,0
+80,6/1/2018,CN26_S11,CN26_S11,CN26,Duck,23,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.9771,47.51957,1255,Humide,8,Maison individuelle,0,Jirama,Oui,1,0
+81,6/1/2018,CN28_S5,CN28_S5,CN28,Duck,23,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.9771,47.51957,1255,Humide,8,Maison individuelle,0,Jirama,Oui,1,0
+82,6/1/2018,CN29_S146,CN29_S146,CN29,Duck,23,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.9771,47.51957,1255,Humide,8,Maison individuelle,0,Jirama,Oui,1,0
+83,6/1/2018,CN31_S151,CN31_S151,CN31,Duck,23,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.9771,47.51957,1255,Humide,8,Maison individuelle,0,Jirama,Oui,1,0
+84,6/6/2018,CN33-redeposit_S6,CN33-redeposit_S6,CN33,Duck,26,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97254,47.52275,1260,Humide,5,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+85,6/6/2018,CN35_S53,CN35_S53,CN35,Duck,26,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97254,47.52275,1260,Humide,5,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+86,6/7/2018,CN36_S152,CN36_S152,CN36,Duck,27,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97472,47.53828,1260,Seche,3,Maison individuelle,1,Jirama,Oui,1,0
+87,6/12/2018,CN39_S153,CN39_S153,CN39,Duck,30,NA,Juvenile,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.995,47.53688,1261,Humide,3,Maison individuelle,0,Puit,Oui,1,0
+88,6/12/2018,CN40_S154,CN40_S154,CN40,Duck,30,NA,Juvenile,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.995,47.53688,1261,Humide,3,Maison individuelle,0,Puit,Oui,1,0
+89,6/14/2018,CN44_S123,CN44_S123,CN44,Duck,32,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97826,47.52525,1257,Seche,7,Maison individuelle,1,Puit,Oui,1,1
+90,7/24/2018,CN48-redeposit_S1,CN48-redeposit_S1,CN48,Duck,45,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98498,47.5278,1279,Seche,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+91,7/24/2018,CN49-redeposit_S2,CN49-redeposit_S2,CN49,Duck,45,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98498,47.5278,1279,Seche,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+92,7/24/2018,CN51_S87,CN51_S87,CN51,Duck,45,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98498,47.5278,1279,Seche,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+93,8/21/2018,CN56_S69,CN56_S69,CN56,Duck,54,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98023,47.53548,1259,Humide,3,Maison individuelle,1,Jirama,Non,1,0
+94,8/21/2018,CN57_S7,CN57_S7,CN57,Duck,54,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98023,47.53548,1259,Humide,3,Maison individuelle,1,Jirama,Non,1,0
+95,8/21/2018,CN58_S110,CN58_S110,CN58,Duck,54,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98023,47.53548,1259,Humide,3,Maison individuelle,1,Jirama,Non,1,0
+96,8/21/2018,CN59_S118,CN59_S118,CN59,Duck,55,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+97,8/21/2018,CN60_S114,CN60_S114,CN60,Duck,55,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+98,8/21/2018,CN61_S142,CN61_S142,CN61,Duck,55,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+99,8/22/2018,CN62_S148,CN62_S148,CN62,Duck,56,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99539,47.52399,1324,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+100,8/22/2018,CN63-redeposit_S4,CN63-redeposit_S4,CN63,Duck,56,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99539,47.52399,1324,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+101,8/28/2018,CN65_S114,CN65_S114,CN65,Duck,57,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.98714,47.54102,1257,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+102,8/28/2018,CN68_S153,CN68_S153,CN68,Duck,57,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.98714,47.54102,1257,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+103,8/28/2018,CN69_S115,CN69_S115,CN69,Duck,57,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.98714,47.54102,1257,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+104,8/28/2018,CN70_S138,CN70_S138,CN70,Duck,57,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.98714,47.54102,1257,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+105,9/3/2018,CN71_S260,CN71_S260,CN71,Duck,59,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98112,47.53674,1263,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+106,9/3/2018,CN75-redeposit_S1,CN75-redeposit_S1,CN75,Duck,59,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98112,47.53674,1263,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+107,9/3/2018,CN79_S90,CN79_S90,CN79,Duck,59,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98112,47.53674,1263,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+108,9/3/2018,CN81_S91,CN81_S91,CN81,Duck,60,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97715,47.53098,1256,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+109,9/4/2018,CN82-redeposit_S7,CN82-redeposit_S7,CN82,Duck,61,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98297,47.53714,1277,Seche,6,Pièces dans une maison avec d’autres ménages,1,Jirama,Non,1,0
+110,9/11/2018,CN83-redeposit_S262,CN83-redeposit_S262,CN83,Duck,64,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97591,47.53099,1254,Humide,8,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,1
+111,9/17/2018,CN84_S11,CN84_S11,CN84,Duck,68,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+112,9/17/2018,CN85_S93,CN85_S93,CN85,Duck,68,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+113,9/17/2018,CN86_S117,CN86_S117,CN86,Duck,68,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+114,9/17/2018,CN87_S153,CN87_S153,CN87,Duck,68,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+115,9/19/2018,CN89_S106,CN89_S106,CN89,Duck,70,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahavolona,18.9809,47.52797,1277,Seche,2,Maison individuelle,1,Puit,Oui,1,0
+116,9/19/2018,CN90_S115,CN90_S115,CN90,Duck,70,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahavolona,18.9809,47.52797,1277,Seche,2,Maison individuelle,1,Puit,Oui,1,0
+117,10/2/2018,CN92_S14,CN92_S14,CN92,Duck,72,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,19.0034,47.53952,1263,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+118,10/2/2018,CN96_S16,CH96_S16,CH96,Dog,72,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,19.0034,47.53952,1263,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+119,5/10/2018,CT12_S38,CT12_S38,CT12,Cat,11,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99204,47.52243,1302,Humide,8,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+120,5/11/2018,CT13_S56,CT13_S56,CT13,Cat,12,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98868,47.52803,1284,Humide,3,Maison dans un lot avec d’autres ménages,1,Borne fontaine et puit,Oui,1,1
+121,5/11/2018,CT15_S46,CT15_S46,CT15,Cat,12,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98868,47.52803,1284,Humide,3,Maison dans un lot avec d’autres ménages,1,Borne fontaine et puit,Oui,1,1
+122,5/16/2018,CT20_S45,CT20_S45,CT20,Cat,16,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97336,47.53622,1261,Seche,7,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+123,5/22/2018,CT21_S64,CT21_S64,CT21,Cat,17,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,19.00342,47.53638,1276,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+124,6/11/2018,CT27_S155,CT27_S155,CT27,Cat,29,Male,Juvenile,YES,NO,NA,NA,NA,NA,NA,Morarano,18.98968,47.52846,1296,Seche,4,Maison individuelle,1,Jirama,Oui,1,0
+125,4/24/2018,CT3_S18,CT3_S18,CT3,Cat,2,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97881,47.53582,1253,Humide,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+126,8/13/2018,CT32_S156,CT32_S156,CT32,Cat,31,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97215,47.52166,1259,Humide,4,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,0
+127,6/14/2018,CT34_S120,CT34_S120,CT34,Cat,32,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97826,47.52525,1257,Seche,7,Maison individuelle,1,Puit,Oui,1,1
+128,7/4/2018,CT38_S121,CT38_S121,CT38,Cat,38,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.972,47.52409,1254,Humide,6,Maison individuelle,0,Jirama,Oui,1,0
+129,8/20/2018,CT49_S17,CT49_S17,CT49,Cat,53,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98353,47.52328,1272,Humide,4,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+130,9/3/2018,CT55_S273,CT55_S273,CT55,Cat,60,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97715,47.53098,1256,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+131,5/6/2018,CT6_S51,CT6_S51,CT6,Cat,7,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97589,47.53534,1259,Seche,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+132,9/11/2018,CT63_S278,CT63_S278,CT63,Cat,65,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahavolona,18.98653,47.53122,1284,Seche,5,Maison individuelle,0,Jirama,Oui,1,0
+133,9/17/2018,CT66_S265,CT66_S265,CT66,Cat,67,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99538,47.53305,1287,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+134,5/6/2018,CT8_S19,CT8_S19,CT8,Cat,7,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97589,47.53534,1259,Seche,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+135,7/24/2018,CV8_S101,CV8_S101,CV8,Horse,45,NA,NA,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98498,47.5278,1279,Seche,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+136,8/21/2018,CV9_S112,CV9_S112,CV9,Horse,55,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+137,5/3/2018,DI1_S186,DI1_S186,DI1,Turkey,6,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97505,47.52168,1260,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+138,7/30/2018,DI10_S118,DI10_S118,DI10,Turkey,46,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99916,47.53862,1267,Humide,4,Maison individuelle,1,Puit,Non,1,0
+139,9/3/2018,DI12_S35,DI12_S35,DI12,Turkey,59,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98112,47.53674,1263,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+140,9/3/2018,DI13_S156,DI13_S156,DI13,Turkey,59,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98112,47.53674,1263,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+141,5/3/2018,DI2_S147,DI2_S147,DI2,Turkey,6,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97505,47.52168,1260,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+142,6/8/2018,DI4_S60,DI4_S60,DI4,Turkey,28,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahalavolona,18.98498,47.52127,1287,Seche,4,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,0
+143,7/24/2018,DI5_S114,DI5_S114,DI5,Turkey,45,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98498,47.5278,1279,Seche,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+144,7/24/2018,DI7_S115,DI7_S115,DI7,Turkey,45,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98498,47.5278,1279,Seche,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+145,7/24/2018,DI8_S116,DI8_S116,DI8,Turkey,45,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98498,47.5278,1279,Seche,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+146,7/24/2018,DI9_S117,DI9_S117,DI9,Turkey,45,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98498,47.5278,1279,Seche,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+147,5/7/2018,E10_S61,E10_S61,E10,Water,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iavoloha,18.99605,47.53792,1265,Humide,2,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+148,5/14/2018,E20_S62,E20_S62,E20,Water,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,Morarano,18.99277,47.5269,1294,Seche,6,Maison individuelle,1,Puit,Oui,1,0
+149,5/16/2018,E22_S60,E22_S60,E22,Water,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,Belambanana,18.97336,47.53622,1261,Seche,7,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+150,5/22/2018,E25_S272,E25_S272,E25,Water,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iavoloha,19.00342,47.53638,1276,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+151,5/29/2018,E30_S49,E30_S49,E30,Water,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,Volotara,18.97998,47.52484,1261,Humide,15,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+152,6/1/2018,E33_S61,E33_S61,E33,Water,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ambohimanala,18.9771,47.51957,1255,Humide,8,Maison individuelle,0,Jirama,Oui,1,0
+153,6/4/2018,E35_S197,E35_S197,E35,Water,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mahabo,18.98799,47.53473,1264,Humide,6,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+154,6/6/2018,E37_S157,E37_S157,E37,Water,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ambohimanala,18.97254,47.52275,1260,Humide,5,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+155,6/15/2018,E49_S117,E49_S117,E49,Water,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ambohimanala,18.98146,47.52283,1277,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+156,7/2/2018,E52_S118,E52_S118,E52,Water,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,Morarano,18.98464,47.51969,1272,Humide,8,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+157,7/2/2018,E53_S119,E53_S119,E53,Water,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,Morarano,18.98464,47.51969,1272,Humide,8,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+158,7/23/2018,E63_S120,E63_S120,E63,Water,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,Belambanana,18.97673,47.53805,1258,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+159,8/8/2018,E71_S158,E71_S158,E71,Water,49,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mahabo,18.98169,47.53444,1256,Humide,4,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+160,8/13/2018,E73_S19,E73_S19,E73,Water,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,Morarano,18.98528,47.52385,1278,Humide,5,Maison individuelle,1,Puit,Oui,1,0
+161,8/21/2018,E79_S7,E79_S7,E79,Water,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mahabo,18.98023,47.53548,1259,Humide,3,Maison individuelle,1,Jirama,Non,1,0
+162,8/28/2018,E84-redeposit_S3,E84-redeposit_S3,E84,Water,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mahabo,18.97813,47.53378,1263,Humide,7,Maison individuelle,0,Jirama,Oui,1,0
+163,9/3/2018,E87-redeposit_S6,E87-redeposit_S6,E87,Water,59,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mahabo,18.98112,47.53674,1263,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+164,9/17/2018,E97_S77,E97_S77,E97,Water,67,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iavoloha,18.99538,47.53305,1287,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+165,4/23/2018,H1_S112,H1_S112,H1,Human,1,Male,NA,NO,NO,Non,Non,NA,FALSE,NA,Belambanana,18.97813,47.53621,1255,Humide,12,Maison dans un lot avec d’autres ménages,0,Jirama,Non,1,0
+166,5/25/2018,H100_S195,H100_S195,H100,Human,19,Female,NA,YES,YES,Non,Oui,Lavage linge,FALSE,NA,Volotara,18.97503,47.52574,1258,Humide,8,Maison individuelle,1,Jirama,Oui,1,1
+167,5/25/2018,H104_S1,H104_S1,H104,Human,19,Male,NA,YES,NO,Non,Oui,Lavage linge,FALSE,NA,Volotara,18.97503,47.52574,1258,Humide,8,Maison individuelle,1,Jirama,Oui,1,1
+168,5/25/2018,H105-redeposit_S38,H105-redeposit_S38,H105,Human,19,Male,NA,YES,NO,Non,Non,NA,FALSE,Porc,Volotara,18.97503,47.52574,1258,Humide,8,Maison individuelle,1,Jirama,Oui,1,1
+169,5/28/2018,H108_S199,H108_S199,H108,Human,20,Female,NA,NO,NO,Non,Oui,Lavage linge,FALSE,Autre; Chat; Lapin; Poulet gasy,Morarano,18.98982,47.5263,1291,Seche,4,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+170,4/24/2018,H11_S59,H11_S59,H11,Human,2,Female,NA,NO,NO,Non,Oui,puiser l'eau djirama,FALSE,Bovin; Chat; Chien; Porc; Poulet gasy,Belambanana,18.97881,47.53582,1253,Humide,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+171,5/29/2018,H117_S140,H117_S140,H117,Human,21,Female,NA,YES,NO,Non,Oui,Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,NA,Volotara,18.97998,47.52484,1261,Humide,15,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+172,5/29/2018,H118-redeposit_S1,H118-redeposit_S1,H118,Human,21,Female,NA,YES,YES,Non,Oui,Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Autre; Canard; Lapin; Poulet gasy,Volotara,18.97998,47.52484,1261,Humide,15,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+173,4/24/2018,H12_S69,H12_S69,H12,Human,2,Female,NA,NO,NO,Oui,Non,NA,FALSE,Bovin; Chat; Chien; Porc,Belambanana,18.97881,47.53582,1253,Humide,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+174,5/30/2018,H122_S136,H122_S136,H122,Human,22,Male,NA,YES,YES,Oui,Oui,Puiser l'eau puit/etang/riviere,FALSE,Bovin; Chien; Porc,Morarano,18.99159,47.53075,1277,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+175,5/30/2018,H125_S106,H125_S106,H125,Human,22,Male,NA,YES,YES,Non,Oui,Puiser l'eau puit/etang/riviere,FALSE,NA,Morarano,18.99159,47.53075,1277,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+176,6/1/2018,H129_S53,H129_S53,H129,Human,23,Female,NA,NO,NO,Oui,Oui,Lavage linge; puiser l'eau djirama,FALSE,Autre; Canard; Poulet gasy,Ambohimanala,18.9771,47.51957,1255,Humide,8,Maison individuelle,0,Jirama,Oui,1,0
+177,4/24/2018,H13_S56,H13_S56,H13,Human,2,Male,NA,NO,NO,Oui,Oui,Lavage linge; Pêche,FALSE,Bovin; Chat; Chien,Belambanana,18.97881,47.53582,1253,Humide,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+178,6/1/2018,H136_S109,H136_S109,H136,Human,23,Male,NA,NO,NO,Oui,Oui,puiser l'eau djirama,FALSE,Autre; Canard; Poulet gasy,Ambohimanala,18.9771,47.51957,1255,Humide,8,Maison individuelle,0,Jirama,Oui,1,0
+179,6/4/2018,H137_S50,H137_S50,H137,Human,24,Female,NA,NO,NO,Non,Oui,Lavage linge; puiser l'eau djirama; Rizière,FALSE,Chien,Mahabo,18.98799,47.53473,1264,Humide,6,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+180,6/4/2018,H139_S273,H139_S273,H139,Human,24,Female,NA,NO,NO,Non,Oui,Lavage linge,FALSE,Porc; Poulet gasy,Mahabo,18.98799,47.53473,1264,Humide,6,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+181,6/5/2018,H144_S111,H144_S111,H144,Human,25,Male,NA,YES,NO,Non,Oui,Puiser l'eau puit/etang/riviere,FALSE,Porc; Poulet gasy,Morarano,18.98523,47.52724,1276,Humide,8,Maison individuelle,1,Puit,Oui,1,1
+182,6/5/2018,H147_S2,H147_S2,H147,Human,25,Female,NA,YES,YES,Non,Non,NA,FALSE,NA,Morarano,18.98523,47.52724,1276,Humide,8,Maison individuelle,1,Puit,Oui,1,1
+183,6/6/2018,H151_S58,H151_S58,H151,Human,26,Male,NA,YES,NO,Non,Oui,Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Canard; Chien; Poulet gasy,Ambohimanala,18.97254,47.52275,1260,Humide,5,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+184,6/6/2018,H153_S145,H153_S145,H153,Human,26,Male,NA,YES,NO,Oui,Oui,arrosage plantes; Rizière,FALSE,Autre; Chien; Poulet gasy,Ambohimanala,18.97254,47.52275,1260,Humide,5,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+185,6/7/2018,H154-redeposit_S7,H154-redeposit_S7,H154,Human,27,Female,NA,YES,NO,Non,Oui,Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Canard; Chien; Poulet gasy,Belambanana,18.97472,47.53828,1260,Seche,3,Maison individuelle,1,Jirama,Oui,1,0
+186,6/7/2018,H155-redeposit_S10,H155-redeposit_S10,H155,Human,27,Male,NA,YES,NO,Non,Oui,Lavage linge,FALSE,Canard; Chien; Poulet gasy,Belambanana,18.97472,47.53828,1260,Seche,3,Maison individuelle,1,Jirama,Oui,1,0
+187,6/11/2018,H160-redeposit_S11,H160-redeposit_S11,H160,Human,29,Male,NA,YES,YES,Non,Oui,Lavage linge; puiser l'eau djirama,FALSE,Chat; Chien; Poule pondeuse; Poulet gasy,Morarano,18.98968,47.52846,1296,Seche,4,Maison individuelle,1,Jirama,Oui,1,0
+188,6/12/2018,H164_S148,H164_S148,H164,Human,30,Male,NA,YES,YES,Non,Oui,Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Canard; Chat; Chien; Oie; Poulet gasy,Iavoloha,18.995,47.53688,1261,Humide,3,Maison individuelle,0,Puit,Oui,1,0
+189,6/14/2018,H172_S149,H172_S149,H172,Human,32,Male,NA,YES,YES,Oui,Oui,Autre,FALSE,NA,Ambohimanala,18.97826,47.52525,1257,Seche,7,Maison individuelle,1,Puit,Oui,1,1
+190,6/18/2018,H177_S6,H177_S6,H177,Human,34,Female,NA,YES,NO,Non,Oui,Lavage linge,FALSE,Chien; Porc; Poulet gasy,Mahalavolona,18.98303,47.52942,1296,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,0
+191,6/18/2018,H179_S272,H179_S272,H179,Human,34,Female,NA,YES,NO,Non,Oui,Autre; puiser l'eau djirama,FALSE,NA,Mahalavolona,18.98303,47.52942,1296,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,0
+192,7/2/2018,H183_S7,H183_S7,H183,Human,36,Male,NA,YES,NO,Oui,Non,NA,FALSE,Bovin; Chien; Poulet gasy,Morarano,18.98464,47.51969,1272,Humide,8,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+193,7/2/2018,H187_S4,H187_S4,H187,Human,36,Female,NA,YES,NO,Non,Oui,Autre; Lavage linge,FALSE,Chien; Poulet gasy,Morarano,18.98464,47.51969,1272,Humide,8,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+194,7/3/2018,H190_S9,H190_S9,H190,Human,37,Female,NA,YES,YES,Oui,Oui,Autre; Lavage linge; puiser l'eau djirama,FALSE,Autre; Bovin; Lapin; Poulet gasy,Mahalavolona,18.9876,47.53005,1285,Seche,5,Maison individuelle,1,Jirama,Oui,1,0
+195,7/3/2018,H191_S10,H191_S10,H191,Human,37,Female,NA,YES,NO,Non,Oui,Autre; Lavage linge; puiser l'eau djirama,FALSE,Autre; Lapin; Porc; Poulet gasy,Mahalavolona,18.9876,47.53005,1285,Seche,5,Maison individuelle,1,Jirama,Oui,1,0
+196,7/4/2018,H194_S103,H194_S103,H194,Human,38,Male,NA,YES,YES,Oui,Oui,Autre; Puiser l'eau puit/etang/riviere; Rizière,FALSE,Bovin; Chat; Chien; Porc; Poulet gasy,Ambohimanala,18.972,47.52409,1254,Humide,6,Maison individuelle,0,Jirama,Oui,1,0
+197,7/4/2018,H196_S105,H196_S105,H196,Human,38,Female,NA,YES,NO,Non,Non,NA,FALSE,NA,Ambohimanala,18.972,47.52409,1254,Humide,6,Maison individuelle,0,Jirama,Oui,1,0
+198,7/9/2018,H198_S8,H198_S8,H198,Human,39,Female,NA,YES,NO,Non,Oui,Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Autre; Chien; Lapin; Ovin; Poulet gasy,Morarano,18.98583,47.51857,1284,Humide,7,Maison individuelle,1,Puit,Oui,1,1
+199,7/9/2018,H200_S106,H200_S106,H200,Human,39,Female,NA,YES,NO,Non,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Autre; Chien; Lapin; Ovin; Poulet gasy,Morarano,18.98583,47.51857,1284,Humide,7,Maison individuelle,1,Puit,Oui,1,1
+200,7/9/2018,H204_S107,H204_S107,H204,Human,39,Male,NA,YES,NO,Non,Oui,Autre,FALSE,Autre; Chien; Lapin; Ovin; Poulet gasy,Morarano,18.98583,47.51857,1284,Humide,7,Maison individuelle,1,Puit,Oui,1,1
+201,7/10/2018,H205_S108,H205_S108,H205,Human,40,Female,NA,YES,NO,Non,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Autre; Chat; Chien; Poulet gasy,Ambohimanala,18.97725,47.52297,1262,Humide,3,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,0
+202,7/10/2018,H207_S109,H207_S109,H207,Human,40,Male,NA,YES,NO,Non,Non,NA,FALSE,NA,Ambohimanala,18.97725,47.52297,1262,Humide,3,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,0
+203,7/18/2018,H217_S110,H217_S110,H217,Human,42,Female,NA,YES,NO,Non,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Oie; Porc; Poulet gasy,Ambohimanala,18.97951,47.52141,1270,Humide,5,Maison individuelle,1,Puit,Oui,1,1
+204,7/18/2018,H219_S111,H219_S111,H219,Human,42,Female,NA,YES,NO,Non,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere; Rizière,FALSE,Oie; Porc; Poulet gasy,Ambohimanala,18.97951,47.52141,1270,Humide,5,Maison individuelle,1,Puit,Oui,1,1
+205,7/23/2018,H221_S113,H221_S113,H221,Human,43,Female,NA,YES,NO,Non,Oui,Lavage linge; Natation,FALSE,Autre; Chat; Chien,Belambanana,18.97673,47.53805,1258,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+206,7/23/2018,H222_S112,H222_S112,H222,Human,43,Male,NA,YES,NO,Non,Oui,Autre; Natation; Pêche,FALSE,Chat; Chien,Belambanana,18.97673,47.53805,1258,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+207,7/23/2018,H225_S114,H225_S114,H225,Human,43,Female,NA,NO,NO,Non,Oui,arrosage plantes; Autre; Lavage linge,FALSE,Chat; Chien; Poulet gasy,Belambanana,18.97673,47.53805,1258,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+208,7/23/2018,H228_S115,H228_S115,H228,Human,44,Male,NA,NO,NO,Non,Oui,Autre; Puiser l'eau puit/etang/riviere,FALSE,Chien; Porc; Poulet gasy,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+209,7/23/2018,H231_S276,H231_S276,H231,Human,44,Female,NA,YES,YES,Oui,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Chien; Porc; Poulet gasy,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+210,7/24/2018,H236_S6,H236_S6,H236,Human,45,Male,NA,YES,NO,Oui,Oui,Autre,FALSE,Cheval,Iavoloha,18.98498,47.5278,1279,Seche,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+211,7/30/2018,H239_S7,H239_S7,H239,Human,46,Male,NA,YES,NO,Non,Oui,Autre; Lavage linge,FALSE,Chien; Porc; Poulet gasy,Iavoloha,18.99916,47.53862,1267,Humide,4,Maison individuelle,1,Puit,Non,1,0
+212,7/30/2018,H241_S8,H241_S8,H241,Human,46,Male,NA,NO,NO,Non,Oui,Autre; Lavage linge; Natation,FALSE,Chat; Chien; Poulet gasy,Iavoloha,18.99916,47.53862,1267,Humide,4,Maison individuelle,1,Puit,Non,1,0
+213,8/6/2018,H242_S271,H242_S271,H242,Human,47,Male,NA,YES,YES,Oui,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Lapin; Porc; Poulet gasy,Volotara,18.97811,47.52799,1265,Humide,4,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,0
+214,8/7/2018,H245_S9,H245_S9,H245,Human,48,Female,NA,YES,YES,Non,Oui,Autre; Lavage linge,FALSE,Chien; Oie; Poulet gasy,Ambohimanala,18.97417,47.5212,1258,Humide,2,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,1
+215,8/8/2018,H248_S10,H248_S10,H248,Human,49,Male,NA,YES,YES,Non,Oui,Puiser l'eau puit/etang/riviere,FALSE,Chien,Mahabo,18.98169,47.53444,1256,Humide,4,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+216,8/8/2018,H249_S83,H249_S83,H249,Human,49,Male,NA,YES,YES,Oui,Non,NA,FALSE,Chien; Poulet de chair,Mahabo,18.98169,47.53444,1256,Humide,4,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+217,5/2/2018,H26_S57,H26_S57,H26,Human,5,Male,NA,YES,NO,Non,Non,NA,FALSE,Porc; Poulet gasy,Iavoloha,18.99993,47.54383,1284,Seche,8,Maison dans un lot avec d’autres ménages,0,Puit,Non,1,1
+218,8/20/2018,H265_S151,H265_S151,H265,Human,53,Male,NA,YES,NO,Oui,Oui,Rizière,FALSE,Chat; Porc; Poulet gasy,Morarano,18.98353,47.52328,1272,Humide,4,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+219,8/21/2018,H267_S5,H267_S5,H267,Human,54,Male,NA,YES,YES,Oui,Oui,Natation,FALSE,NA,Mahabo,18.98023,47.53548,1259,Humide,3,Maison individuelle,1,Jirama,Non,1,0
+220,8/21/2018,H268_S152,H268_S152,H268,Human,54,Female,NA,YES,NO,Oui,Oui,Autre; Lavage linge,FALSE,NA,Mahabo,18.98023,47.53548,1259,Humide,3,Maison individuelle,1,Jirama,Non,1,0
+221,8/22/2018,H277_S113,H277_S113,H277,Human,56,Male,NA,YES,YES,Non,Oui,Autre; Natation; Pêche,FALSE,Chien,Morarano,18.99539,47.52399,1324,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+222,8/28/2018,H282_S150,H282_S150,H282,Human,57,Female,NA,YES,NO,Non,Oui,Autre,FALSE,Chien,Andoaharanofotsy,18.98714,47.54102,1257,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+223,8/28/2018,H283_S147,H283_S147,H283,Human,57,Female,NA,YES,NO,Non,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Chat; Chien,Andoaharanofotsy,18.98714,47.54102,1257,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+224,8/28/2018,H286_S149,H286_S149,H286,Human,58,Male,NA,YES,YES,Non,Oui,Autre; Natation,FALSE,Autre; Chien; Oie; Poulet gasy,Mahabo,18.97813,47.53378,1263,Humide,7,Maison individuelle,0,Jirama,Oui,1,0
+225,8/28/2018,H287_S159,H287_S159,H287,Human,58,Male,NA,YES,YES,Non,Oui,Autre; Natation; Rizière,FALSE,Autre; Chien; Oie; Poulet gasy,Mahabo,18.97813,47.53378,1263,Humide,7,Maison individuelle,0,Jirama,Oui,1,0
+226,8/28/2018,H288_S158,H288_S158,H288,Human,58,Female,NA,YES,NO,Oui,Oui,Autre; Lavage linge; Natation; Pêche; puiser l'eau djirama; Rizière,FALSE,Autre; Chien; Oie; Poulet gasy,Mahabo,18.97813,47.53378,1263,Humide,7,Maison individuelle,0,Jirama,Oui,1,0
+227,8/28/2018,H289_S92,H289_S92,H289,Human,58,Male,NA,YES,YES,Non,Oui,Autre; Natation; Rizière,FALSE,Autre; Chien; Oie; Poulet gasy,Mahabo,18.97813,47.53378,1263,Humide,7,Maison individuelle,0,Jirama,Oui,1,0
+228,5/2/2018,H29_S189,H29_S189,H29,Human,5,Male,NA,YES,NO,Non,Oui,Lavage linge,FALSE,Porc,Iavoloha,18.99993,47.54383,1284,Seche,8,Maison dans un lot avec d’autres ménages,0,Puit,Non,1,1
+229,8/28/2018,H290_S90,H290_S90,H290,Human,58,Female,NA,YES,YES,Non,Oui,Autre; Natation,FALSE,Autre; Chien; Oie; Poulet gasy,Mahabo,18.97813,47.53378,1263,Humide,7,Maison individuelle,0,Jirama,Oui,1,0
+230,9/3/2018,H293_S39,H293_S39,H293,Human,59,Male,NA,YES,YES,Oui,Oui,Autre; Puiser l'eau puit/etang/riviere; Rizière,FALSE,Autre; Canard; Poulet gasy,Mahabo,18.98112,47.53674,1263,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+231,9/3/2018,H294_S155,H294_S155,H294,Human,59,Male,NA,YES,NO,Oui,Oui,Autre; puiser l'eau djirama; Puiser l'eau puit/etang/riviere; Rizière,FALSE,Autre; Canard; Poulet gasy,Mahabo,18.98112,47.53674,1263,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+232,9/3/2018,H295-redeposit_S8,H295-redeposit_S8,H295,Human,60,Female,NA,YES,YES,Oui,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Canard; Chat; Poulet de chair; Poulet gasy,Andoaharanofotsy,18.97715,47.53098,1256,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+233,9/4/2018,H298_S109,H298_S109,H298,Human,61,Female,NA,YES,NO,Non,Oui,Autre; Lavage linge,FALSE,Canard; Chat; Poulet gasy,Mahabo,18.98297,47.53714,1277,Seche,6,Pièces dans une maison avec d’autres ménages,1,Jirama,Non,1,0
+234,4/23/2018,H3_S195,H3_S195,H3,Human,1,Male,NA,NO,NO,Non,Non,NA,FALSE,Chien,Belambanana,18.97813,47.53621,1255,Humide,12,Maison dans un lot avec d’autres ménages,0,Jirama,Non,1,0
+235,9/10/2018,H307_S275,H307_S275,H307,Human,63,Male,NA,YES,YES,Non,Oui,Autre,FALSE,Chien,Mahavolona,18.98756,47.52798,1282,Humide,8,Maison individuelle,1,Puit,Non,1,0
+236,9/10/2018,H308_S143,H308_S143,H308,Human,63,Female,NA,YES,YES,Non,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Chien; Poulet gasy,Mahavolona,18.98756,47.52798,1282,Humide,8,Maison individuelle,1,Puit,Non,1,0
+237,5/3/2018,H31_S108,H31_S108,H31,Human,6,Male,NA,NO,NO,Non,Non,NA,FALSE,Porc,Ambohimanala,18.97505,47.52168,1260,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+238,9/10/2018,H311-redeposit_S263,H311-redeposit_S263,H311,Human,63,Male,NA,YES,YES,Non,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Chien; Poulet gasy,Mahavolona,18.98756,47.52798,1282,Humide,8,Maison individuelle,1,Puit,Non,1,0
+239,9/11/2018,H315_S94,H315_S94,H315,Human,64,Female,NA,YES,NO,Non,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere; Rizière,FALSE,Canard; Chat; Chien; Lapin; Poulet gasy,Andoaharanofotsy,18.97591,47.53099,1254,Humide,8,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,1
+240,5/3/2018,H32_S204,H32_S204,H32,Human,6,Male,NA,NO,NO,Non,Non,NA,FALSE,Caille; Lapin; Porc; Poulet gasy,Ambohimanala,18.97505,47.52168,1260,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+241,9/11/2018,H322-redeposit_S2,H322-redeposit_S2,H322,Human,65,Female,NA,YES,NO,Oui,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Bovin; Chat; Chien; Oie,Mahavolona,18.98653,47.53122,1284,Seche,5,Maison individuelle,0,Jirama,Oui,1,0
+242,9/12/2018,H327_S105,H327_S105,H327,Human,66,Male,NA,YES,YES,Non,Oui,Autre,FALSE,Autre; Chat; Poulet gasy,Andoaharanofotsy,18.97458,47.52939,1255,Humide,5,Maison individuelle,1,Jirama,Non,1,0
+243,9/17/2018,H332_S274,H332_S274,H332,Human,67,Male,NA,YES,NO,Non,Oui,Autre; Lavage linge; Pêche; Puiser l'eau puit/etang/riviere; Rizière,FALSE,Chat; Chien; Porc; Poulet gasy,Iavoloha,18.99538,47.53305,1287,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+244,9/17/2018,H339_S261,H339_S261,H339,Human,68,Male,NA,YES,NO,Non,Oui,Lavage linge; Natation; Puiser l'eau puit/etang/riviere,FALSE,Canard; Oie; Porc; Poulet gasy,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+245,9/17/2018,H340_S111,H340_S111,H340,Human,68,Male,NA,YES,YES,Non,Oui,Autre; Lavage linge; Natation,FALSE,Poulet gasy,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+246,9/17/2018,H341_S75,H341_S75,H341,Human,68,Female,NA,YES,NO,Non,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,NA,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+247,9/17/2018,H342_S8,H342_S8,H342,Human,68,Male,NA,YES,NO,Non,Oui,Natation,FALSE,NA,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+248,9/18/2018,H343_S74,H343_S74,H343,Human,69,Female,NA,YES,YES,Oui,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere; Rizière,FALSE,Bovin; Chien; Porc; Poulet gasy,Iavoloha,18.99688,47.53583,1281,Humide,7,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,1
+249,9/18/2018,H348_S148,H348_S148,H348,Human,69,Male,NA,YES,YES,Non,Oui,Autre,FALSE,Chat; Chien; Poulet gasy,Iavoloha,18.99688,47.53583,1281,Humide,7,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,1
+250,5/6/2018,H35_S65,H35_S65,H35,Human,7,Male,NA,NO,NO,Non,Oui,puiser l'eau djirama,FALSE,Chat; Chien; Poulet gasy,Belambanana,18.97589,47.53534,1259,Seche,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+251,10/2/2018,H359_S13,H359_S13,H359,Human,72,Female,NA,YES,NO,Non,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Canard; Chien; Poulet gasy,Iavoloha,19.0034,47.53952,1263,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+252,10/2/2018,H360_S105,H360_S105,H360,Human,72,Male,NA,YES,YES,Oui,Oui,Natation; Pêche; Puiser l'eau puit/etang/riviere; Rizière,FALSE,NA,Iavoloha,19.0034,47.53952,1263,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+253,5/7/2018,H39_S46,H39_S46,H39,Human,8,Female,NA,NO,NO,Non,Oui,Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Chat; Chien; Poulet gasy,Iavoloha,18.99605,47.53792,1265,Humide,2,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+254,5/8/2018,H42_S271,H42_S271,H42,Human,9,Female,NA,NO,NO,Non,Non,NA,FALSE,NA,Morarano,18.99029,47.52417,1293,Humide,6,Maison individuelle,0,Puit,Non,1,1
+255,5/9/2018,H49_S266,H49_S266,H49,Human,10,Female,NA,YES,NO,Non,Oui,Lavage linge,FALSE,Chat; Chien,Mahalavolona,18.98678,47.53214,1270,Seche,5,Maison individuelle,1,Jirama,Non,1,0
+256,4/23/2018,H5-redeposit_S5,H5-redeposit_S5,H5,Human,1,Male,NA,YES,YES,Non,Non,NA,FALSE,Chat,Belambanana,18.97813,47.53621,1255,Humide,12,Maison dans un lot avec d’autres ménages,0,Jirama,Non,1,0
+257,5/12/2018,H66_S191,H66_S191,H66,Human,13,Male,NA,YES,NO,Oui,Oui,puiser l'eau djirama; Puiser l'eau puit/etang/riviere,FALSE,Bovin,Mahabo,18.99064,47.53586,1276,Seche,11,Maison individuelle,1,Jirama et puit,Oui,1,1
+258,4/23/2018,H7_S268,H7_S268,H7,Human,1,Male,NA,YES,YES,Oui,Oui,Lavage linge; Pêche; Puiser l'eau; Rizière,FALSE,Canard; Chat; Porc; Poule pondeuse; Poulet gasy,Belambanana,18.97813,47.53621,1255,Humide,12,Maison dans un lot avec d’autres ménages,0,Jirama,Non,1,0
+259,5/14/2018,H71_S63,H71_S63,H71,Human,14,Female,NA,YES,NO,Oui,Oui,Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Bovin; Canard; Chat; Pigeon; Porc; Poulet gasy,Morarano,18.99277,47.5269,1294,Seche,6,Maison individuelle,1,Puit,Oui,1,0
+260,5/14/2018,H73_S193,H73_S193,H73,Human,14,Female,NA,NO,NO,Non,Oui,Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Canard; Chat; Pigeon; Poulet gasy,Morarano,18.99277,47.5269,1294,Seche,6,Maison individuelle,1,Puit,Oui,1,0
+261,5/14/2018,H74_S144,H74_S144,H74,Human,14,Female,NA,YES,YES,Non,Oui,Puiser l'eau puit/etang/riviere,FALSE,Canard; Pigeon; Poulet gasy,Morarano,18.99277,47.5269,1294,Seche,6,Maison individuelle,1,Puit,Oui,1,0
+262,5/15/2018,H76_S107,H76_S107,H76,Human,15,Male,NA,YES,NO,Oui,Oui,Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Chat; Chien; Porc,Iavoloha,19.0039,47.53632,1276,Seche,7,Maison individuelle,1,Puit,Oui,1,1
+263,5/15/2018,H78_S67,H78_S67,H78,Human,15,Male,NA,YES,NO,Oui,Oui,Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Bovin; Chat; Chien; Porc,Iavoloha,19.0039,47.53632,1276,Seche,7,Maison individuelle,1,Puit,Oui,1,1
+264,5/15/2018,H79_S66,H79_S66,H79,Human,15,Male,NA,YES,YES,Oui,Oui,Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Bovin,Iavoloha,19.0039,47.53632,1276,Seche,7,Maison individuelle,1,Puit,Oui,1,1
+265,5/16/2018,H82_S55,H82_S55,H82,Human,16,Male,NA,NO,NO,Oui,Oui,Natation; Pêche; Puiser l'eau puit/etang/riviere,FALSE,Chat; Porc; Poulet gasy,Belambanana,18.97336,47.53622,1261,Seche,7,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+266,5/16/2018,H84_S64,H84_S64,H84,Human,16,Male,NA,YES,YES,Non,Oui,Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Chat; Poulet gasy,Belambanana,18.97336,47.53622,1261,Seche,7,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+267,5/16/2018,H85_S9,H85_S9,H85,Human,16,Female,NA,YES,YES,Non,Oui,Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Porc,Belambanana,18.97336,47.53622,1261,Seche,7,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+268,5/16/2018,H87_S8,H87_S8,H87,Human,16,Male,NA,YES,YES,Oui,Oui,Lavage linge; Pêche; Puiser l'eau puit/etang/riviere,FALSE,Chat; Chien; Porc; Poulet gasy,Belambanana,18.97336,47.53622,1261,Seche,7,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+269,5/16/2018,H88_S142,H88_S142,H88,Human,16,Male,NA,YES,NO,Oui,Oui,Pêche,FALSE,Porc,Belambanana,18.97336,47.53622,1261,Seche,7,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+270,5/22/2018,H93_S1,H93_S1,H93,Human,17,Female,NA,YES,NO,Non,Oui,Autre; Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Bovin; Chien; Porc,Iavoloha,19.00342,47.53638,1276,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+271,5/22/2018,H94_S150,H94_S150,H94,Human,17,Male,NA,YES,YES,Oui,Oui,Puiser l'eau puit/etang/riviere,FALSE,Bovin; Porc,Iavoloha,19.00342,47.53638,1276,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+272,5/24/2018,H97_S47,H97_S47,H97,Human,18,Female,NA,YES,NO,Oui,Oui,Lavage linge; Puiser l'eau puit/etang/riviere,FALSE,Porc; Poulet gasy,Volotara,18.97899,47.52651,1270,Humide,4,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+273,5/24/2018,H99_S143,H99_S143,H99,Human,18,Male,NA,YES,NO,Non,Non,NA,FALSE,Porc; Poulet gasy,Volotara,18.97899,47.52651,1270,Humide,4,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+274,7/24/2018,OI13_S107,OI13_S107,OI13,Goose,45,NA,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98498,47.5278,1279,Seche,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+275,7/24/2018,OI14_S108,OI14_S108,OI14,Goose,45,NA,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98498,47.5278,1279,Seche,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+276,7/24/2018,OI15_S109,OI15_S109,OI15,Goose,45,NA,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98498,47.5278,1279,Seche,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+277,7/24/2018,OI17_S110,OI17_S110,OI17,Goose,45,NA,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98498,47.5278,1279,Seche,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+278,7/24/2018,OI18_S111,OI18_S111,OI18,Goose,45,NA,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98498,47.5278,1279,Seche,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+279,7/24/2018,OI19_S112,OI19_S112,OI19,Goose,45,NA,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.98498,47.5278,1279,Seche,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+280,8/7/2018,OI21_S113,OI21_S113,OI21,Goose,48,NA,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97417,47.5212,1258,Humide,2,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,1
+281,8/13/2018,OI23_S263,OI23_S263,OI23,Goose,51,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97613,47.51848,1264,Humide,8,Maison individuelle,1,Jirama,Oui,1,0
+282,8/13/2018,OI24_S130,OI24_S130,OI24,Goose,51,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97613,47.51848,1264,Humide,8,Maison individuelle,1,Jirama,Oui,1,0
+283,8/13/2018,OI25_S124,OI25_S124,OI25,Goose,51,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97613,47.51848,1264,Humide,8,Maison individuelle,1,Jirama,Oui,1,0
+284,8/13/2018,OI26_S262,OI26_S262,OI26,Goose,51,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97613,47.51848,1264,Humide,8,Maison individuelle,1,Jirama,Oui,1,0
+285,8/13/2018,OI27_S4,OI27_S4,OI27,Goose,51,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97613,47.51848,1264,Humide,8,Maison individuelle,1,Jirama,Oui,1,0
+286,8/13/2018,OI28-redep_S1,OI28-redep_S1,OI28,Goose,51,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97613,47.51848,1264,Humide,8,Maison individuelle,1,Jirama,Oui,1,0
+287,8/13/2018,OI29_S3,OI29_S3,OI29,Goose,51,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97613,47.51848,1264,Humide,8,Maison individuelle,1,Jirama,Oui,1,0
+288,8/13/2018,OI30_S264,OI30_S264,OI30,Goose,51,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97613,47.51848,1264,Humide,8,Maison individuelle,1,Jirama,Oui,1,0
+289,8/21/2018,OI31_S15,OI31_S15,OI31,Goose,54,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98023,47.53548,1259,Humide,3,Maison individuelle,1,Jirama,Non,1,0
+290,8/21/2018,OI32_S13,OI32_S13,OI32,Goose,54,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98023,47.53548,1259,Humide,3,Maison individuelle,1,Jirama,Non,1,0
+291,8/21/2018,OI34-redeposit_S2,OI34-redeposit_S2,OI34,Goose,54,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98023,47.53548,1259,Humide,3,Maison individuelle,1,Jirama,Non,1,0
+292,8/21/2018,OI35_S123,OI35_S123,OI35,Goose,55,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+293,8/22/2018,OI37_S128,OI37_S128,OI37,Goose,56,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99539,47.52399,1324,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+294,8/22/2018,OI38_S16,OI38_S16,OI38,Goose,56,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99539,47.52399,1324,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+295,8/22/2018,OI40_S146,OI40_S146,OI40,Goose,56,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99539,47.52399,1324,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+296,8/22/2018,OI41_S8,OI41_S8,OI41,Goose,56,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99539,47.52399,1324,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+297,9/11/2018,OI44_S102,OI44_S102,OI44,Goose,65,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahavolona,18.98653,47.53122,1284,Seche,5,Maison individuelle,0,Jirama,Oui,1,0
+298,9/11/2018,OI47_S96,OI47_S96,OI47,Goose,65,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahavolona,18.98653,47.53122,1284,Seche,5,Maison individuelle,0,Jirama,Oui,1,0
+299,9/17/2018,OI49_S109,OI49_S109,OI49,Goose,68,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+300,9/17/2018,OI50_S79,OI50_S79,OI50,Goose,68,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+301,9/17/2018,OI51_S78,OI51_S78,OI51,Goose,68,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+302,9/19/2018,OI53_S76,OI53_S76,OI53,Goose,70,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Mahavolona,18.9809,47.52797,1277,Seche,2,Maison individuelle,1,Puit,Oui,1,0
+303,7/18/2018,OI7_S24,OI7_S24,OI7,Goose,42,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97951,47.52141,1270,Humide,5,Maison individuelle,1,Puit,Oui,1,1
+304,7/18/2018,OI8_S25,OI8_S25,OI8,Goose,42,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97951,47.52141,1270,Humide,5,Maison individuelle,1,Puit,Oui,1,1
+305,7/18/2018,OI9_S26,OI9_S26,OI9,Goose,42,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97951,47.52141,1270,Humide,5,Maison individuelle,1,Puit,Oui,1,1
+306,9/18/2018,PC100_S268,PC100_S268,PC100,Pig,69,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99688,47.53583,1281,Humide,7,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,1
+307,5/2/2018,PC19_S143,PC19_S143,PC19,Pig,5,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99993,47.54383,1284,Seche,8,Maison dans un lot avec d’autres ménages,0,Puit,Non,1,1
+308,4/23/2018,PC2_S25,PC2_S25,PC2,Pig,1,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97813,47.53621,1255,Humide,12,Maison dans un lot avec d’autres ménages,0,Jirama,Non,1,0
+309,5/2/2018,PC20_S21,PC20_S21,PC20,Pig,5,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99993,47.54383,1284,Seche,8,Maison dans un lot avec d’autres ménages,0,Puit,Non,1,1
+310,5/3/2018,PC21_S2,PC21_S2,PC21,Pig,6,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97505,47.52168,1260,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+311,5/3/2018,PC22_S3,PC22_S3,PC22,Pig,6,Male,Adulte,NO,YES,NA,NA,NA,NA,NA,Ambohimanala,18.97505,47.52168,1260,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+312,5/3/2018,PC23_S6,PC23_S6,PC23,Pig,6,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97505,47.52168,1260,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+313,5/14/2018,PC25_S142,PC25_S142,PC25,Pig,14,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99277,47.5269,1294,Seche,6,Maison individuelle,1,Puit,Oui,1,0
+314,5/16/2018,PC27_S265,PC27_S265,PC27,Pig,16,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97336,47.53622,1261,Seche,7,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+315,5/16/2018,PC28_S196,PC28_S196,PC28,Pig,16,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97336,47.53622,1261,Seche,7,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+316,5/16/2018,PC29_S52,PC29_S52,PC29,Pig,16,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97336,47.53622,1261,Seche,7,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+317,5/22/2018,PC30-redeposit_S2,PC30-redeposit_S2,PC30,Pig,17,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,19.00342,47.53638,1276,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+318,5/24/2018,PC31_S170,PC31_S170,PC31,Pig,18,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97899,47.52651,1270,Humide,4,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+319,5/24/2018,PC32_S173,PC32_S173,PC32,Pig,18,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97899,47.52651,1270,Humide,4,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+320,5/24/2018,PC33_S141,PC33_S141,PC33,Pig,18,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97899,47.52651,1270,Humide,4,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+321,5/24/2018,PC34_S133,PC34_S133,PC34,Pig,18,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97899,47.52651,1270,Humide,4,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+322,5/25/2018,PC35_S39,PC35_S39,PC35,Pig,19,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97503,47.52574,1258,Humide,8,Maison individuelle,1,Jirama,Oui,1,1
+323,5/25/2018,PC36_S41,PC36_S41,PC36,Pig,19,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97503,47.52574,1258,Humide,8,Maison individuelle,1,Jirama,Oui,1,1
+324,5/25/2018,PC37_S68,PC37_S68,PC37,Pig,19,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97503,47.52574,1258,Humide,8,Maison individuelle,1,Jirama,Oui,1,1
+325,5/25/2018,PC38_S33,PC38_S33,PC38,Pig,19,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97503,47.52574,1258,Humide,8,Maison individuelle,1,Jirama,Oui,1,1
+326,5/25/2018,PC39_S36,PC39_S36,PC39,Pig,19,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97503,47.52574,1258,Humide,8,Maison individuelle,1,Jirama,Oui,1,1
+327,4/24/2018,PC4_S22,PC4_S22,PC4,Pig,2,NA,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97881,47.53582,1253,Humide,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+328,5/30/2018,PC40_S44,PC40_S44,PC40,Pig,22,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99159,47.53075,1277,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+329,5/30/2018,PC41-redeposit_S4,PC41-redeposit_S4,PC41,Pig,22,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99159,47.53075,1277,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+330,5/30/2018,PC42_S72,PC42_S72,PC42,Pig,22,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99159,47.53075,1277,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+331,6/18/2018,PC45_S25,PC45_S25,PC45,Pig,34,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahalavolona,18.98303,47.52942,1296,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,0
+332,6/18/2018,PC46_S26,PC46_S26,PC46,Pig,34,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahalavolona,18.98303,47.52942,1296,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,0
+333,8/27/2018,PC47_S24,PC47_S24,PC47,Pig,35,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97504,47.53313,1266,Seche,4,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,0
+334,4/24/2018,PC5_S36,PC5_S36,PC5,Pig,2,NA,NA,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97881,47.53582,1253,Humide,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+335,7/4/2018,PC51_S27,PC51_S27,PC51,Pig,38,NA,NA,YES,NO,NA,NA,NA,NA,NA,Ambohimanala,18.972,47.52409,1254,Humide,6,Maison individuelle,0,Jirama,Oui,1,0
+336,7/4/2018,PC52_S28,PC52_S28,PC52,Pig,38,Female,Adulte,YES,NO,NA,NA,NA,NA,NA,Ambohimanala,18.972,47.52409,1254,Humide,6,Maison individuelle,0,Jirama,Oui,1,0
+337,7/4/2018,PC53_S29,PC53_S29,PC53,Pig,38,Female,Juvenile,YES,NO,NA,NA,NA,NA,NA,Ambohimanala,18.972,47.52409,1254,Humide,6,Maison individuelle,0,Jirama,Oui,1,0
+338,7/4/2018,PC54_S30,PC54_S30,PC54,Pig,38,Male,Juvenile,YES,NO,NA,NA,NA,NA,NA,Ambohimanala,18.972,47.52409,1254,Humide,6,Maison individuelle,0,Jirama,Oui,1,0
+339,7/18/2018,PC55_S31,PC55_S31,PC55,Pig,42,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97951,47.52141,1270,Humide,5,Maison individuelle,1,Puit,Oui,1,1
+340,7/23/2018,PC56_S89,PC56_S89,PC56,Pig,44,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+341,7/23/2018,PC57_S90,PC57_S90,PC57,Pig,44,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+342,7/23/2018,PC58_S91,PC58_S91,PC58,Pig,44,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+343,7/23/2018,PC59_S92,PC59_S92,PC59,Pig,44,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+344,7/23/2018,PC60_S93,PC60_S93,PC60,Pig,44,Male,Juvenile,YES,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+345,7/23/2018,PC61_S94,PC61_S94,PC61,Pig,44,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+346,7/23/2018,PC62_S95,PC62_S95,PC62,Pig,44,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+347,7/23/2018,PC63_S96,PC63_S96,PC63,Pig,44,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+348,7/23/2018,PC65_S97,PC65_S97,PC65,Pig,44,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+349,7/23/2018,PC66_S98,PC66_S98,PC66,Pig,44,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+350,7/23/2018,PC67_S99,PC67_S99,PC67,Pig,44,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+351,7/30/2018,PC68_S100,PC68_S100,PC68,Pig,46,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99916,47.53862,1267,Humide,4,Maison individuelle,1,Puit,Non,1,0
+352,8/8/2018,PC70_S1,PC70_S1,PC70,Pig,49,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98169,47.53444,1256,Humide,4,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+353,8/21/2018,PC75_S134,PC75_S134,PC75,Pig,55,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+354,8/21/2018,PC76_S108,PC76_S108,PC76,Pig,55,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+355,8/21/2018,PC77_S36,PC77_S36,PC77,Pig,55,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+356,8/21/2018,PC78_S122,PC78_S122,PC78,Pig,55,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+357,8/21/2018,PC80_S126,PC80_S126,PC80,Pig,55,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+358,8/21/2018,PC81_S145,PC81_S145,PC81,Pig,55,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+359,8/21/2018,PC82_S91,PC82_S91,PC82,Pig,55,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+360,8/21/2018,PC83_S139,PC83_S139,PC83,Pig,55,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+361,8/21/2018,PC84_S127,PC84_S127,PC84,Pig,55,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+362,8/21/2018,PC85_S132,PC85_S132,PC85,Pig,55,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+363,8/21/2018,PC86_S133,PC86_S133,PC86,Pig,55,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+364,8/21/2018,PC87_S135,PC87_S135,PC87,Pig,55,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+365,9/4/2018,PC89_S92,PC89_S92,PC89,Pig,62,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98418,47.53592,1265,Humide,3,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,1
+366,9/17/2018,PC91_S107,PC91_S107,PC91,Pig,67,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99538,47.53305,1287,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+367,9/17/2018,PC92_S73,PC92_S73,PC92,Pig,67,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99538,47.53305,1287,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+368,9/17/2018,PC94_S12,PC94_S12,PC94,Pig,68,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+369,9/17/2018,PC95_S80,PC95_S80,PC95,Pig,68,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+370,9/18/2018,PC98_S157,PC98_S157,PC98,Pig,69,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99688,47.53583,1281,Humide,7,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,1
+371,9/18/2018,PC99_S154,PC99_S154,PC99,Pig,69,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99688,47.53583,1281,Humide,7,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,1
+372,4/23/2018,PG1_S3,PG1_S3,PG1,Poultry,1,NA,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97813,47.53621,1255,Humide,12,Maison dans un lot avec d’autres ménages,0,Jirama,Non,1,0
+373,4/24/2018,PG10_S44,PG10_S44,PG10,Poultry,2,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97881,47.53582,1253,Humide,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+374,5/25/2018,PG100_S42,PG100_S42,PG100,Poultry,19,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97503,47.52574,1258,Humide,8,Maison individuelle,1,Jirama,Oui,1,1
+375,5/25/2018,PG101_S40,PG101_S40,PG101,Poultry,19,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97503,47.52574,1258,Humide,8,Maison individuelle,1,Jirama,Oui,1,1
+376,5/25/2018,PG102_S35,PG102_S35,PG102,Poultry,19,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97503,47.52574,1258,Humide,8,Maison individuelle,1,Jirama,Oui,1,1
+377,5/25/2018,PG103_S34,PG103_S34,PG103,Poultry,19,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97503,47.52574,1258,Humide,8,Maison individuelle,1,Jirama,Oui,1,1
+378,5/28/2018,PG104_S70,PG104_S70,PG104,Poultry,20,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98982,47.5263,1291,Seche,4,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+379,5/28/2018,PG108_S269,PG108_S269,PG108,Poultry,20,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98982,47.5263,1291,Seche,4,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+380,5/29/2018,PG115_S200,PG115_S200,PG115,Poultry,21,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97998,47.52484,1261,Humide,15,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+381,5/30/2018,PG121_S50,PG121_S50,PG121,Poultry,22,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99159,47.53075,1277,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+382,6/1/2018,PG124_S37,PG124_S37,PG124,Poultry,23,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.9771,47.51957,1255,Humide,8,Maison individuelle,0,Jirama,Oui,1,0
+383,6/1/2018,PG128_S24,PG128_S24,PG128,Poultry,23,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.9771,47.51957,1255,Humide,8,Maison individuelle,0,Jirama,Oui,1,0
+384,6/5/2018,PG136_S26,PG136_S26,PG136,Poultry,25,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98523,47.52724,1276,Humide,8,Maison individuelle,1,Puit,Oui,1,1
+385,6/5/2018,PG137_S205,PG137_S205,PG137,Poultry,25,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98523,47.52724,1276,Humide,8,Maison individuelle,1,Puit,Oui,1,1
+386,6/6/2018,PG145-redeposit_S10,PG145-redeposit_S10,PG145,Poultry,26,Female,Juvenile,NO,YES,NA,NA,NA,NA,NA,Ambohimanala,18.97254,47.52275,1260,Humide,5,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+387,6/6/2018,PG147_S112,PG147_S112,PG147,Poultry,26,Female,Juvenile,NO,YES,NA,NA,NA,NA,NA,Ambohimanala,18.97254,47.52275,1260,Humide,5,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+388,6/12/2018,PG166_S136,PG166_S136,PG166,Poultry,30,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.995,47.53688,1261,Humide,3,Maison individuelle,0,Puit,Oui,1,0
+389,6/14/2018,PG178_S2,PG178_S2,PG178,Poultry,32,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97826,47.52525,1257,Seche,7,Maison individuelle,1,Puit,Oui,1,1
+390,6/15/2018,PG179_S3,PG179_S3,PG179,Poultry,33,Female,Juvenile,NO,YES,NA,NA,NA,NA,NA,Ambohimanala,18.98146,47.52283,1277,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+391,6/15/2018,PG181_S4,PG181_S4,PG181,Poultry,33,Female,Adulte,NO,YES,NA,NA,NA,NA,NA,Ambohimanala,18.98146,47.52283,1277,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+392,6/18/2018,PG189_S5,PG189_S5,PG189,Poultry,34,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahalavolona,18.98303,47.52942,1296,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,0
+393,8/27/2018,PG195_S6,PG195_S6,PG195,Poultry,35,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97504,47.53313,1266,Seche,4,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,0
+394,7/2/2018,PG199_S7,PG199_S7,PG199,Poultry,36,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98464,47.51969,1272,Humide,8,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+395,7/2/2018,PG200_S8,PG200_S8,PG200,Poultry,36,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98464,47.51969,1272,Humide,8,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+396,7/2/2018,PG202_S9,PG202_S9,PG202,Poultry,36,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98464,47.51969,1272,Humide,8,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+397,7/2/2018,PG203_S10,PG203_S10,PG203,Poultry,36,Female,Adulte,YES,NO,NA,NA,NA,NA,NA,Morarano,18.98464,47.51969,1272,Humide,8,Maison dans un lot avec d’autres ménages,0,Puit,Oui,1,0
+398,7/3/2018,PG205_S11,PG205_S11,PG205,Poultry,37,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahalavolona,18.9876,47.53005,1285,Seche,5,Maison individuelle,1,Jirama,Oui,1,0
+399,7/4/2018,PG206_S12,PG206_S12,PG206,Poultry,38,Female,Adulte,NO,YES,NA,NA,NA,NA,NA,Ambohimanala,18.972,47.52409,1254,Humide,6,Maison individuelle,0,Jirama,Oui,1,0
+400,7/4/2018,PG207_S13,PG207_S13,PG207,Poultry,38,Male,Adulte,NO,YES,NA,NA,NA,NA,NA,Ambohimanala,18.972,47.52409,1254,Humide,6,Maison individuelle,0,Jirama,Oui,1,0
+401,7/9/2018,PG210_S14,PG210_S14,PG210,Poultry,39,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98583,47.51857,1284,Humide,7,Maison individuelle,1,Puit,Oui,1,1
+402,7/9/2018,PG211_S15,PG211_S15,PG211,Poultry,39,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98583,47.51857,1284,Humide,7,Maison individuelle,1,Puit,Oui,1,1
+403,7/9/2018,PG212_S16,PG212_S16,PG212,Poultry,39,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98583,47.51857,1284,Humide,7,Maison individuelle,1,Puit,Oui,1,1
+404,7/9/2018,PG213_S17,PG213_S17,PG213,Poultry,39,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98583,47.51857,1284,Humide,7,Maison individuelle,1,Puit,Oui,1,1
+405,7/9/2018,PG214_S18,PG214_S18,PG214,Poultry,39,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98583,47.51857,1284,Humide,7,Maison individuelle,1,Puit,Oui,1,1
+406,7/9/2018,PG216_S19,PG216_S19,PG216,Poultry,39,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98583,47.51857,1284,Humide,7,Maison individuelle,1,Puit,Oui,1,1
+407,7/9/2018,PG217_S20,PG217_S20,PG217,Poultry,39,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98583,47.51857,1284,Humide,7,Maison individuelle,1,Puit,Oui,1,1
+408,7/9/2018,PG218_S21,PG218_S21,PG218,Poultry,39,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98583,47.51857,1284,Humide,7,Maison individuelle,1,Puit,Oui,1,1
+409,7/10/2018,PG227_S3,PG227_S3,PG227,Poultry,41,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97628,47.53767,1258,Seche,9,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+410,7/10/2018,PG231_S23,PG231_S23,PG231,Poultry,41,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97628,47.53767,1258,Seche,9,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+411,7/18/2018,PG239_S37,PG239_S37,PG239,Poultry,42,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97951,47.52141,1270,Humide,5,Maison individuelle,1,Puit,Oui,1,1
+412,7/23/2018,PG248_S124,PG248_S124,PG248,Poultry,44,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+413,7/23/2018,PG250_S3,PG250_S3,PG250,Poultry,44,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+414,7/23/2018,PG251_S4,PG251_S4,PG251,Poultry,44,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+415,7/23/2018,PG253_S5,PG253_S5,PG253,Poultry,44,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+416,7/23/2018,PG254_S6,PG254_S6,PG254,Poultry,44,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97099,47.52217,1255,Humide,9,Maison individuelle,1,Puit,Oui,1,0
+417,7/30/2018,PG258_S124,PG258_S124,PG258,Poultry,46,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99916,47.53862,1267,Humide,4,Maison individuelle,1,Puit,Non,1,0
+418,7/30/2018,PG259_S125,PG259_S125,PG259,Poultry,46,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99916,47.53862,1267,Humide,4,Maison individuelle,1,Puit,Non,1,0
+419,7/30/2018,PG263-redeposit_S3,PG263-redeposit_S3,PG263,Poultry,46,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99916,47.53862,1267,Humide,4,Maison individuelle,1,Puit,Non,1,0
+420,8/6/2018,PG265_S127,PG265_S127,PG265,Poultry,47,Male,Adulte,YES,YES,NA,NA,NA,NA,NA,Volotara,18.97811,47.52799,1265,Humide,4,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,0
+421,8/6/2018,PG266_S128,PG266_S128,PG266,Poultry,47,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97811,47.52799,1265,Humide,4,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,0
+422,8/6/2018,PG267_S129,PG267_S129,PG267,Poultry,47,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97811,47.52799,1265,Humide,4,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,0
+423,8/6/2018,PG268_S130,PG268_S130,PG268,Poultry,47,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97811,47.52799,1265,Humide,4,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,0
+424,8/6/2018,PG269_S131,PG269_S131,PG269,Poultry,47,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97811,47.52799,1265,Humide,4,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,0
+425,8/6/2018,PG270_S132,PG270_S132,PG270,Poultry,47,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97811,47.52799,1265,Humide,4,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,0
+426,8/6/2018,PG271_S133,PG271_S133,PG271,Poultry,47,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97811,47.52799,1265,Humide,4,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,0
+427,8/6/2018,PG273_S20,PG273_S20,PG273,Poultry,47,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Volotara,18.97811,47.52799,1265,Humide,4,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,0
+428,8/13/2018,PG280_S155,PG280_S155,PG280,Poultry,50,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98528,47.52385,1278,Humide,5,Maison individuelle,1,Puit,Oui,1,0
+429,8/13/2018,PG283_S156,PG283_S156,PG283,Poultry,50,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98528,47.52385,1278,Humide,5,Maison individuelle,1,Puit,Oui,1,0
+430,8/13/2018,PG285_S154,PG285_S154,PG285,Poultry,50,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98528,47.52385,1278,Humide,5,Maison individuelle,1,Puit,Oui,1,0
+431,8/20/2018,PG289_S145,PG289_S145,PG289,Poultry,52,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98807,47.52166,1287,Humide,5,Maison individuelle,1,Jirama,Oui,1,0
+432,8/20/2018,PG294_S21,PG294_S21,PG294,Poultry,53,Male,Juvenile,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98353,47.52328,1272,Humide,4,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+433,8/20/2018,PG295_S4,PG295_S4,PG295,Poultry,53,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98353,47.52328,1272,Humide,4,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+434,8/21/2018,PG297_S17,PG297_S17,PG297,Poultry,54,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98023,47.53548,1259,Humide,3,Maison individuelle,1,Jirama,Non,1,0
+435,8/21/2018,PG298_S129,PG298_S129,PG298,Poultry,54,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98023,47.53548,1259,Humide,3,Maison individuelle,1,Jirama,Non,1,0
+436,8/21/2018,PG299_S9,PG299_S9,PG299,Poultry,54,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98023,47.53548,1259,Humide,3,Maison individuelle,1,Jirama,Non,1,0
+437,4/23/2018,PG3-redeposit_S1,PG3-redeposit_S1,PG3,Poultry,1,NA,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97813,47.53621,1255,Humide,12,Maison dans un lot avec d’autres ménages,0,Jirama,Non,1,0
+438,8/21/2018,PG304_S20,PG304_S20,PG304,Poultry,54,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98023,47.53548,1259,Humide,3,Maison individuelle,1,Jirama,Non,1,0
+439,8/21/2018,PG306_S18,PG306_S18,PG306,Poultry,54,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98023,47.53548,1259,Humide,3,Maison individuelle,1,Jirama,Non,1,0
+440,8/21/2018,PG307_S116,PG307_S116,PG307,Poultry,55,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+441,8/21/2018,PG308_S120,PG308_S120,PG308,Poultry,55,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+442,8/21/2018,PG309_S119,PG309_S119,PG309,Poultry,55,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+443,5/3/2018,PG31_S122,PG31_S122,PG31,Poultry,6,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97505,47.52168,1260,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+444,8/21/2018,PG310_S136,PG310_S136,PG310,Poultry,55,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
+445,8/22/2018,PG311_S125,PG311_S125,PG311,Poultry,56,Male,Adulte,YES,YES,NA,NA,NA,NA,NA,Morarano,18.99539,47.52399,1324,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+446,8/22/2018,PG312_S140,PG312_S140,PG312,Poultry,56,Female,Adulte,YES,YES,NA,NA,NA,NA,NA,Morarano,18.99539,47.52399,1324,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+447,8/22/2018,PG314_S141,PG314_S141,PG314,Poultry,56,Female,Adulte,YES,YES,NA,NA,NA,NA,NA,Morarano,18.99539,47.52399,1324,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+448,8/22/2018,PG315_S151,PG315_S151,PG315,Poultry,56,Male,Adulte,YES,YES,NA,NA,NA,NA,NA,Morarano,18.99539,47.52399,1324,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+449,8/22/2018,PG316_S144,PG316_S144,PG316,Poultry,56,Female,Adulte,YES,YES,NA,NA,NA,NA,NA,Morarano,18.99539,47.52399,1324,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+450,8/22/2018,PG317_S150,PG317_S150,PG317,Poultry,56,Female,Adulte,YES,YES,NA,NA,NA,NA,NA,Morarano,18.99539,47.52399,1324,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+451,8/22/2018,PG319_S121,PG319_S121,PG319,Poultry,56,Female,Adulte,YES,YES,NA,NA,NA,NA,NA,Morarano,18.99539,47.52399,1324,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+452,8/22/2018,PG320_S131,PG320_S131,PG320,Poultry,56,Female,Adulte,YES,YES,NA,NA,NA,NA,NA,Morarano,18.99539,47.52399,1324,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+453,8/28/2018,PG321_S117,PG321_S117,PG321,Poultry,57,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.98714,47.54102,1257,Humide,7,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+454,8/28/2018,PG324_S112,PG324_S112,PG324,Poultry,58,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.97813,47.53378,1263,Humide,7,Maison individuelle,0,Jirama,Oui,1,0
+455,5/3/2018,PG33_S193,PG33_S193,PG33,Poultry,6,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97505,47.52168,1260,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+456,9/3/2018,PG335_S110,PG335_S110,PG335,Poultry,59,Female,Adulte,YES,YES,NA,NA,NA,NA,NA,Mahabo,18.98112,47.53674,1263,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+457,9/3/2018,PG336_S113,PG336_S113,PG336,Poultry,59,Female,Adulte,YES,YES,NA,NA,NA,NA,NA,Mahabo,18.98112,47.53674,1263,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+458,9/3/2018,PG340_S90,PG340_S90,PG340,Poultry,60,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97715,47.53098,1256,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+459,9/4/2018,PG344_S89,PG344_S89,PG344,Poultry,61,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98297,47.53714,1277,Seche,6,Pièces dans une maison avec d’autres ménages,1,Jirama,Non,1,0
+460,9/4/2018,PG348_S264,PG348_S264,PG348,Poultry,62,Female,Adulte,NO,YES,NA,NA,NA,NA,NA,Mahabo,18.98418,47.53592,1265,Humide,3,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,1
+461,5/3/2018,PG35_S55,PG35_S55,PG35,Poultry,6,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97505,47.52168,1260,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+462,9/17/2018,PG358_S265,PG358_S265,PG358,Poultry,67,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99538,47.53305,1287,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+463,9/17/2018,PG360_S116,PG360_S116,PG360,Poultry,67,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99538,47.53305,1287,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+464,9/17/2018,PG361_S266,PG361_S266,PG361,Poultry,67,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99538,47.53305,1287,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+465,9/17/2018,PG362_S71,PG362_S71,PG362,Poultry,67,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99538,47.53305,1287,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+466,9/17/2018,PG363_S267,PG363_S267,PG363,Poultry,67,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99538,47.53305,1287,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+467,9/17/2018,PG364_S149,PG364_S149,PG364,Poultry,67,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,18.99538,47.53305,1287,Humide,8,Maison individuelle,1,Puit,Oui,1,0
+468,9/17/2018,PG366_S15,PG366_S15,PG366,Poultry,68,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+469,9/17/2018,PG367_S72,PG367_S72,PG367,Poultry,68,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+470,9/17/2018,PG370_S270,PG370_S270,PG370,Poultry,68,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97997,47.53337,1267,Seche,5,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,0
+471,9/18/2018,PG373-redeposit_S1,PG373-redeposit_S1,PG373,Poultry,69,Female,Adulte,YES,NO,NA,NA,NA,NA,NA,Iavoloha,18.99688,47.53583,1281,Humide,7,Pièces dans une maison avec d’autres ménages,1,Puit,Oui,1,1
+472,9/19/2018,PG381_S147,PG381_S147,PG381,Poultry,70,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Mahavolona,18.9809,47.52797,1277,Seche,2,Maison individuelle,1,Puit,Oui,1,0
+473,10/1/2018,PG385_S10,PG385_S10,PG385,Poultry,71,Female,Adulte,YES,YES,NA,NA,NA,NA,NA,Iavoloha,18.99484,47.52964,1304,Humide,5,Maison individuelle,1,Puit,Oui,1,0
+474,5/3/2018,PG39_S201,PG39_S201,PG39,Poultry,6,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97505,47.52168,1260,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+475,10/2/2018,PG394_S14,PG394_S14,PG394,Poultry,72,Female,Adulte,YES,NO,NA,NA,NA,NA,NA,Iavoloha,19.0034,47.53952,1263,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Non,1,1
+476,5/3/2018,PG40_S28,PG40_S28,PG40,Poultry,6,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.97505,47.52168,1260,Seche,3,Maison dans un lot avec d’autres ménages,1,Jirama,Non,1,1
+477,5/6/2018,PG46_S133,PG46_S133,PG46,Poultry,7,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97589,47.53534,1259,Seche,7,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+478,5/7/2018,PG47_S192,PG47_S192,PG47,Poultry,8,Female,Adulte,YES,NA,NA,NA,NA,NA,NA,Iavoloha,18.99605,47.53792,1265,Humide,2,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+479,5/7/2018,PG48_S134,PG48_S134,PG48,Poultry,8,Female,Adulte,YES,NA,NA,NA,NA,NA,NA,Iavoloha,18.99605,47.53792,1265,Humide,2,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+480,5/8/2018,PG53_S194,PG53_S194,PG53,Poultry,9,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99029,47.52417,1293,Humide,6,Maison individuelle,0,Puit,Non,1,1
+481,5/9/2018,PG56-redeposit_S3,PG56-redeposit_S3,PG56,Poultry,10,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahalavolona,18.98678,47.53214,1270,Seche,5,Maison individuelle,1,Jirama,Non,1,0
+482,5/9/2018,PG58_S48,PG58_S48,PG58,Poultry,10,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahalavolona,18.98678,47.53214,1270,Seche,5,Maison individuelle,1,Jirama,Non,1,0
+483,5/9/2018,PG63_S171,PG63_S171,PG63,Poultry,10,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahalavolona,18.98678,47.53214,1270,Seche,5,Maison individuelle,1,Jirama,Non,1,0
+484,5/9/2018,PG64_S38,PG64_S38,PG64,Poultry,10,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahalavolona,18.98678,47.53214,1270,Seche,5,Maison individuelle,1,Jirama,Non,1,0
+485,5/10/2018,PG69-redeposit_S5,PG69-redeposit_S5,PG69,Poultry,11,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99204,47.52243,1302,Humide,8,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+486,4/23/2018,PG7_S35,PG7_S35,PG7,Poultry,1,NA,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97813,47.53621,1255,Humide,12,Maison dans un lot avec d’autres ménages,0,Jirama,Non,1,0
+487,5/10/2018,PG70_S34,PG70_S34,PG70,Poultry,11,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99204,47.52243,1302,Humide,8,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+488,5/10/2018,PG72_S73,PG72_S73,PG72,Poultry,11,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.99204,47.52243,1302,Humide,8,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+489,5/11/2018,PG75_S148,PG75_S148,PG75,Poultry,12,Female,Adulte,NO,YES,NA,NA,NA,NA,NA,Iavoloha,18.98868,47.52803,1284,Humide,3,Maison dans un lot avec d’autres ménages,1,Borne fontaine et puit,Oui,1,1
+490,5/11/2018,PG76_S139,PG76_S139,PG76,Poultry,12,Female,Adulte,NO,YES,NA,NA,NA,NA,NA,Iavoloha,18.98868,47.52803,1284,Humide,3,Maison dans un lot avec d’autres ménages,1,Borne fontaine et puit,Oui,1,1
+491,5/11/2018,PG78_S202,PG78_S202,PG78,Poultry,12,Female,Adulte,NO,YES,NA,NA,NA,NA,NA,Iavoloha,18.98868,47.52803,1284,Humide,3,Maison dans un lot avec d’autres ménages,1,Borne fontaine et puit,Oui,1,1
+492,4/23/2018,PG8-redeposit_S148,PG8-redeposit_S148,PG8,Poultry,1,NA,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97813,47.53621,1255,Humide,12,Maison dans un lot avec d’autres ménages,0,Jirama,Non,1,0
+493,5/14/2018,PG83_S134,PG83_S134,PG83,Poultry,14,Female,Adulte,NO,YES,NA,NA,NA,NA,NA,Morarano,18.99277,47.5269,1294,Seche,6,Maison individuelle,1,Puit,Oui,1,0
+494,5/14/2018,PG85_S13,PG85_S13,PG85,Poultry,14,Female,Adulte,NO,YES,NA,NA,NA,NA,NA,Morarano,18.99277,47.5269,1294,Seche,6,Maison individuelle,1,Puit,Oui,1,0
+495,5/14/2018,PG86_S135,PG86_S135,PG86,Poultry,14,Female,Adulte,YES,YES,NA,NA,NA,NA,NA,Morarano,18.99277,47.5269,1294,Seche,6,Maison individuelle,1,Puit,Oui,1,0
+496,5/14/2018,PG88_S65,PG88_S65,PG88,Poultry,14,Female,Adulte,NO,YES,NA,NA,NA,NA,NA,Morarano,18.99277,47.5269,1294,Seche,6,Maison individuelle,1,Puit,Oui,1,0
+497,5/15/2018,PG89_S145,PG89_S145,PG89,Poultry,15,Male,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,19.0039,47.53632,1276,Seche,7,Maison individuelle,1,Puit,Oui,1,1
+498,5/15/2018,PG90_S138,PG90_S138,PG90,Poultry,15,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Iavoloha,19.0039,47.53632,1276,Seche,7,Maison individuelle,1,Puit,Oui,1,1
+499,5/16/2018,PG92_S51,PG92_S51,PG92,Poultry,16,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97336,47.53622,1261,Seche,7,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+500,5/16/2018,PG94_S12,PG94_S12,PG94,Poultry,16,Female,Juvenile,NO,NO,NA,NA,NA,NA,NA,Belambanana,18.97336,47.53622,1261,Seche,7,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+501,8/20/2018,PH10_S160,PH10_S160,PH10,Poultry,52,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98807,47.52166,1287,Humide,5,Maison individuelle,1,Jirama,Oui,1,0
+502,8/20/2018,PH11_S157,PH11_S157,PH11,Poultry,52,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98807,47.52166,1287,Humide,5,Maison individuelle,1,Jirama,Oui,1,0
+503,9/3/2018,PH12_S4,PH12_S4,PH12,Poultry,60,Female,Juvenile,NO,YES,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97715,47.53098,1256,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+504,9/3/2018,PH13_S87,PH13_S87,PH13,Poultry,60,Female,Juvenile,NO,YES,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97715,47.53098,1256,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+505,9/3/2018,PH14-redeposit_S9,PH14-redeposit_S9,PH14,Poultry,60,Female,Juvenile,NO,YES,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97715,47.53098,1256,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+506,9/3/2018,PH15_S144,PH15_S144,PH15,Poultry,60,Female,Juvenile,NO,YES,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97715,47.53098,1256,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+507,9/3/2018,PH16_S88,PH16_S88,PH16,Poultry,60,Female,Juvenile,NO,YES,NA,NA,NA,NA,NA,Andoaharanofotsy,18.97715,47.53098,1256,Humide,5,Maison dans un lot avec d’autres ménages,1,Puit,Oui,1,1
+508,8/8/2018,PH5_S105,PH5_S105,PH5,Poultry,49,Female,Adulte,NO,YES,NA,NA,NA,NA,NA,Mahabo,18.98169,47.53444,1256,Humide,4,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+509,8/8/2018,PH6_S106,PH6_S106,PH6,Poultry,49,Female,Adulte,NO,YES,NA,NA,NA,NA,NA,Mahabo,18.98169,47.53444,1256,Humide,4,Maison dans un lot avec d’autres ménages,1,Jirama,Oui,1,1
+510,8/20/2018,PH7_S161,PH7_S161,PH7,Poultry,52,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98807,47.52166,1287,Humide,5,Maison individuelle,1,Jirama,Oui,1,0
+511,8/20/2018,PH8_S162,PH8_S162,PH8,Poultry,52,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98807,47.52166,1287,Humide,5,Maison individuelle,1,Jirama,Oui,1,0
+512,8/20/2018,PH9_S146,PH9_S146,PH9,Poultry,52,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Morarano,18.98807,47.52166,1287,Humide,5,Maison individuelle,1,Jirama,Oui,1,0
+513,6/15/2018,PP12_S88,PP12_S88,PP12,Poultry,33,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Ambohimanala,18.98146,47.52283,1277,Humide,3,Maison dans un lot avec d’autres ménages,0,Jirama,Oui,1,1
+514,8/21/2018,PP19_S107,PP19_S107,PP19,Poultry,55,Female,Adulte,NO,NO,NA,NA,NA,NA,NA,Mahabo,18.98035,47.54026,1266,Seche,5,Maison individuelle,1,Puit,Non,1,0
